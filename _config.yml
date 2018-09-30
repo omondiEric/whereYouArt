@@ -23,9 +23,9 @@ description: How much do you know about where you are?
 
 # List of links in the navigation bar
 navbar-links:
-  Proposal: ""
-  CI plan: ""
-  Team Contract: ""
+  Proposal: "proposal"
+  CI plan: "contextual"
+  Team Contract: "contract"
   Team: "team"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
