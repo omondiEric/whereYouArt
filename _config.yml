@@ -162,7 +162,7 @@ kramdown:
   input: GFM
 
 # Default YAML values (more information on Jekyll's site)
-defaults:
+#defaults:
   -
     scope:
       path: ""
