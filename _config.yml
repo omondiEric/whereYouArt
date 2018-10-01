@@ -27,6 +27,10 @@ navbar-links:
   CI plan: "contextual"
   Team Contract: "contract"
   Team: "team"
+  Team:
+    - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
+    - Linda Zeng(lz2): "https://lzeng27.github.io"
+    - Steven Omondi(seo1): "https://omondieric.github.io/projectProposal/"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
