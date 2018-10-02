@@ -24,9 +24,12 @@ description: How much do you know about where you are?
 # List of links in the navigation bar
 navbar-links:
   Proposal: "proposal"
-  CI plan: "contextual"
+  CI:
+    - CI Plan: "contextual"
+    - CI 1: "contextual1"
+    - CI 2: "contextual2"
+    - CI 3: "contextual3"
   Team Contract: "contract"
-  Team: "team"
   Team:
     - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
     - Linda Zeng(lz2): "https://lzeng27.github.io"
