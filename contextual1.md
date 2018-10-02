@@ -4,11 +4,11 @@ title: First Contextual Inquiry
 subtitle: 
 ---
 
+# First inquiry:
 ## Pseudonym: Jim 
 10/1/2018, 11:30 @ WCMA reading room
 Williams student, senior, male, has been to WCMA before and visits often, but not regularly (~2 times a year)
 
-## Describe your first inquiry:
 ### Who you observed or interviewed, their background, and the environment.
 
 We interviewed a senior Williams student who will we refer to as Jim. He has been to WCMA before and visits occasionally (~2 times a year) to explore the exhibits. We conducted our interview in the reading room, having Jim sit on a couch with a laptop. There were no other museum visitors, which was helpful in creating a quiet, focused space.
