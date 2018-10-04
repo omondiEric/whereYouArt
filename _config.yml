@@ -27,8 +27,7 @@ navbar-links:
   CI:
     - CI Plan: "contextual"
     - CI 1: "contextual1"
-    - CI 2: "contextual2"
-    - CI 3: "contextual3"
+    - CI Review: "contextualReview"
   Team Contract: "contract"
   Team:
     - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
