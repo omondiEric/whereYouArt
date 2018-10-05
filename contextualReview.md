@@ -43,6 +43,22 @@ Following our three contextual inquiries, we worked together to evaluate our dat
 
 ### Themes
 
+*Familiarity sparks further interest
+
+ Familiarity seems to act as a “foot in the door technique” to get users to seek out more information. For example, in one of our contextual inquiries, our participant researched more when there was some sort of recognition, either a name or events (e.g. WALLS)
+ 
+*Users find pictures helpful
+ All of our participants commented on how they liked the incorporation of pictures with the history
+ 
+*Accessibility, relevancy, and clarity of information is important
+ Throughout all of our contextual inquiries, we noticed that our participants preferred when information was convenient and easy to understand.
+
+*Viewing the museum as more than the museum building
+ We noticed that our participants were surprised when they came across information about WCMA that extended beyond the museum building itself. For example, one of our participants was surprised that the chemistry table is part of WCMA and engaged with this information. We could keep in mind that special programs (WALLS, graduate programs) encourage visitors to be more involved in activities that can help them discover more about the museum.
+
+*Museum as an inclusive and welcoming space
+Several of our participants said that they associate museums with lofty language and would prefer if the museum felt more inclusive for all people.
+
 # Task Analysis Questions
 
 1. **Who is going to use the design?**
