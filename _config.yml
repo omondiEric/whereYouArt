@@ -24,9 +24,9 @@ description: How much do you know about where you are?
 # List of links in the navigation bar
 navbar-links:
   Proposal: "proposal"
-  CI:
+  Contextual Inquiry:
     - CI Plan: "contextual"
-    - CI 1: "contextual1"
+    - CI 1 Check in: "contextual1"
     - CI Review: "contextualReview"
   Team Contract: "contract"
   Team:
