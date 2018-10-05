@@ -23,9 +23,11 @@ We also found that people like to visualize information, especially through pict
 
 1. Who is going to use the design?
 
-  Visitors of WCMA
+   Visitors of WCMA
+
 2. What tasks do they now perform? (what do people do?)
-  Currently, people look for information about the museum's history online (using Google, Wikipedia, or directly checking the WCMA website), they find historic photos and make connections between the museum's past and their own present.
+
+   Currently, people look for information about the museum's history online (using Google, Wikipedia, or directly checking the WCMA website), they find historic photos and make connections between the museum's past and their own present.
 
 3. What tasks are desired? (what do people want to do?)
   People want a more accessible, more engaging means of knowing a place's history. They want to be able to discover new information about
