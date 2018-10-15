@@ -29,6 +29,7 @@ navbar-links:
     - CI 1 Check in: "contextual1"
     - CI Review: "contextualReview"
   Team Contract: "contract"
+  Project Ideation: "sketches"  
   Team:
     - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
     - Linda Zeng(lz2): "https://lzeng27.github.io"
