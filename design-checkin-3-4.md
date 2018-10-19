@@ -51,8 +51,6 @@ The glasses will also allow users to use them in a "more information mode" setti
 #### Task 3: Explore WCMA spaces
 Based on what the users search for, they will receive recommendations on which galleries to visit, that contain a similar style of art. Users will also have an option to use the glasses in "Explore" mode, and the glasses will guide them through the museum in the same way a member of staff would.
 
-#### Task 4:
-
 
 ### Design 2:
 
@@ -62,12 +60,16 @@ The main idea of this design is to enhance a visitor's experience by allowing th
 ![Second sketch](/img/sketch2.jpg)
 
 #### Task 1: Learn more information on installations
+Have access to a more detailed narrative provided by the curator, artist, or museum staff. "Scan" a piece of art to learn more about it.
 
 #### Task 2: Revisit past galleries
+Uncover notes from past visitors and photos of exhibitions or specific pieces that they engaged with. Then respond or leave your own memory.
 
 #### Task 3: Explore WCMA spaces
+Visitors can see various locations with which they can engage and further explore the various spaces.
 
 #### Task 4: Learn about WCMA's history
+Compare the present with a historical photo. Standing from the vantage point of a past photographer and be able to compare side-by-side the present with the photograph. 
 
 
 ## Design 3: Smart Watch \
