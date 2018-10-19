@@ -33,6 +33,47 @@ Jack is a friendly museum visitor and likes to communicate to others. Being an a
 
 ## Sketches
 
+### Design 1: 
+Main Idea:
+
 ![Revisit past galleries](/img/sketch1.jpg)
 
+Task 1:
+
+Task 2:
+
+Task 3:
+
+Taske 4:
+
+
+### Design 2:
+
+Main Idea:
+
 ![Second sketch](/img/sketch2.jpg)
+
+Task 1:
+
+Task 2:
+
+Task 3:
+
+Taske 4:
+
+
+### Design 3: Smart Watch 
+
+Main Idea:
+
+Task 1:
+
+Task 2:
+
+Task 3:
+
+Taske 4:
+
+
+
+
