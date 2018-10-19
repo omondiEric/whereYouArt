@@ -29,6 +29,10 @@ Katherine is an art history student who is a frequent visitor. Oftentimes, when 
 
 Jack is a friendly museum visitor and likes to communicate to others. Being an avid learner, when Jack learns new information, especially if it’s related to history, he likes to talk to other people about it and learn about their perspectives. When he visits museums, however, he finds that it is a quiet space and feels he cannot talk to others verbally. He currently likes to go on guided museum tours to learn more about exhibitions and also as an opportunity to talk to others. He wishes there were some other form of interaction with other visitors beyond that.
 
+## Come across past history of WCMA
+*New - hard*
+
+Chris doesn’t usually go to museums, but is a curious person. When he visits museums, he usually looks at the art pieces and reads about them in the plaques on the wall. Looking at art pieces usually already fills up his time. Chris is a person who may not realize that he is interested in exploring more about something until he comes across the idea in the first place. He usually finds that one small spark is enough to get him to dig deeper and learn about something even if he wasn’t aware that it was a subject of interest initially.
 
 
 ## Sketches
