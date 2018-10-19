@@ -70,7 +70,7 @@ The main idea of this design is to enhance a visitor's experience by allowing th
 #### Task 4: Learn about WCMA's history
 
 
-## Design 3: Smart Watch \
+## Design 3: Smart Watch
 
 #### Main Idea:
 The smart watch design aims to provide users with a more in-depth visiting experience, especially the space itself. It will make use of smart watch capabilities, such as the ability to scan QR codes and location sensors. The user will be able to learn more about specific exhibitions are they walk around the museum and learn about past galleries by scanning QR codes. The design with also make use of the location sensor where it is able to detect where the user is in the museum and provide more information about that location to the user. In addition, the smart watch will utilize the location sensor to guide users on how to get to spaces outside of the WCMA building.
