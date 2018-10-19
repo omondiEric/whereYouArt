@@ -37,7 +37,7 @@ Chris doesn’t usually go to museums, but is a curious person. When he visits m
 
 ### Design 1: VR/AR Glasses
 
-#### Main Idea: 
+#### Main Idea:
 Museum visitors will have the choice to either bring their own AR/VR glasses or use ones that will be provided at the entrance of the museum. The main idea of this design is to be able to support tasks that require the use of additional space, without actually using additional space.
 
 ![Revisit past galleries](/img/sketch1.jpg)
@@ -46,27 +46,28 @@ Museum visitors will have the choice to either bring their own AR/VR glasses or 
 When visitors put on the glasses, they will interact with an interface that will guide them through finding the particular piece that they are looking for. This can be done by searching using dates, name of installation, where the piece was in the museum etc. Once found, users will be able to look around and see a gallery, for example, that is the way it was during the dates specified.
 
 #### Task 2: Learn more information on installations
-The glasses will also allow users to use them in a "more information mode" setting. The glasses will then automatically display more information about installations (as users look at them), as an extension of what is written on the plaque. Users will also have an option to save the infomation they see by uploading it to external storage spaces, if they are interested.
+The glasses will also allow users to use them in a "more information mode" setting. The glasses will then automatically display more information about installations (as users look at them), as an extension of what is written on the plaque. Users will also have an option to save the information they see by uploading it to external storage spaces, if they are interested.
 
 #### Task 3: Explore WCMA spaces
-Based on what the users search for, they will receive recommendations on which galleries to visit, that contain a similar style of art. Users will also have an option to use the glasses in "Explore" mode, and the glasses will guide them through the museum in the same way a member of staff would. 
+Based on what the users search for, they will receive recommendations on which galleries to visit, that contain a similar style of art. Users will also have an option to use the glasses in "Explore" mode, and the glasses will guide them through the museum in the same way a member of staff would.
 
-#### Taske 4:
+#### Task 4:
 
 
 ### Design 2:
 
-Main Idea:
+#### Main Idea:
+The main idea of this design is to enhance a visitor's experience by allowing them access to more information than is physically present without requiring them to carry any additional pieces of technology.
 
 ![Second sketch](/img/sketch2.jpg)
 
-Task 1:
+#### Task 1: Learn more information on installations
 
-Task 2:
+#### Task 2: Revisit past galleries
 
-Task 3:
+#### Task 3: Explore WCMA spaces
 
-Taske 4:
+#### Task 4: Learn about WCMA's history
 
 
 ## Design 3: Smart Watch \
@@ -77,7 +78,7 @@ The smart watch design aims to provide users with a more in-depth visiting exper
 ![Smart Watch Sketch](/img/sketch3.jpg)
 
 #### Task 1: Learn more information on installations
-To fulfill this task, it requires a pre-requiste of all art installations having QR codes near them. When a user walks around the museum wearing their smart watch and come across an art piece of interest, they can use their smart watch to scan the corresponding QR code of the art piece. After scanning it, our design will display more information to the user about that current art piece onto the smart watch. We want to design it in such a way that there will be "hyperlinks" within this information.
+To fulfill this task, it requires a pre-requisite of all art installations having QR codes near them. When a user walks around the museum wearing their smart watch and come across an art piece of interest, they can use their smart watch to scan the corresponding QR code of the art piece. After scanning it, our design will display more information to the user about that current art piece onto the smart watch. We want to design it in such a way that there will be "hyperlinks" within this information.
 
 #### Task 2: Explore WCMA spaces
 Using the location sensor on smart watches, we can fulfill the task of exploring WCMA spaces beyond the museum. We plan on doing this by having an initial menu where one of the options labeled "Other WCMA Spaces." It would then ask the user which location to go to. After the user confirms, the smart watch acts as a map guide, telling the user where to go given their location. They will ultimately reach their new destination.
