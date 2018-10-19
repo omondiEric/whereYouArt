@@ -83,5 +83,5 @@ Using the location sensor on smart watches, we can fulfill the task of exploring
 #### Task 3: Learn about WCMA’s history
 We would use the location sensor to achieve this task. When a user is walking around in a museum, if they are standing in a place of interest, which takes into account both the floor they are on on their geographic location, their smart watch will notify the user with a vibration or sound. It would prompt the user informing them that their current location used to be something different, and gives the user the option to learn more about it. The smart watch will then display information about it onto the screen.
 
-### Task 4: Revisit past galleries
+#### Task 4: Revisit past galleries
 Outside of each gallery space, there will be a QR code that the user can scan. After scanning it, the smartwatch will display a list of all the past galleries in this space. The user will be able to click on any one of them and to read more about them. Perhaps we could even expand and provide information about which other museums have had these exhibitions as well.
