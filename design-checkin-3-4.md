@@ -1,6 +1,6 @@
-## Project Design Check In
+# Project Design Check In
 
-## Task Descriptions
+# Task Descriptions
 
 ## Revisit past galleries
 *New - moderate*
