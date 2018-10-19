@@ -2,7 +2,7 @@
 
 
 
-## Task Descriptions (6)
+## Task Descriptions
 
 ## Revisit past galleries
 *New - moderate*
