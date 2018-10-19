@@ -66,20 +66,22 @@ Task 3:
 Taske 4:
 
 
-### Design 3: Smart Watch 
+## Design 3: Smart Watch 
 
-Main Idea:
+#### Main Idea:
+The smart watch design aims to provide users with a more in-depth visiting experience, especially the space itself. It will make use of smart watch capabilities, such as the ability to scan QR codes and location sensors. The user will be able to learn more about specific exhibitions are they walk around the museum and learn about past galleries by scanning QR codes. The design with also make use of the location sensor where it is able to detect where the user is in the museum and provide more information about that location to the user. In addition, the smart watch will utilize the location sensor to guide users on how to get to spaces outside of the WCMA building.
 
 ![Smart Watch Sketch](/img/sketch3.jpg)
 
-Task 1:
+#### Task 1: Learn more information on installations
+To fulfill this task, it requires a pre-requiste of all art installations having QR codes near them. When a user walks around the museum wearing their smart watch and come across an art piece of interest, they can use their smart watch to scan the corresponding QR code of the art piece. After scanning it, our design will display more information to the user about that current art piece onto the smart watch. We want to design it in such a way that there will be "hyperlinks" within this information.
 
-Task 2:
-
-Task 3:
-
-Taske 4:
+#### Task 2: Explore WCMA spaces
+Using the location sensor on smart watches, we can fulfill the task of exploring WCMA spaces beyond the museum. We plan on doing this by having an initial menu where one of the options labeled "Other WCMA Spaces." It would then ask the user which location to go to. After the user confirms, the smart watch acts as a map guide, telling the user where to go given their location. They will ultimately reach their new destination.
 
 
+#### Task 3: Learn about WCMA’s history
+We would use the location sensor to achieve this task. When a user is walking around in a museum, if they are standing in a place of interest, which takes into account both the floor they are on on their geographic location, their smart watch will notify the user with a vibration or sound. It would prompt the user informing them that their current location used to be something different, and gives the user the option to learn more about it. The smart watch will then display information about it onto the screen.
 
-
+### Task 4: Revisit past galleries
+Outside of each gallery space, there will be a QR code that the user can scan. After scanning it, the smartwatch will display a list of all the past galleries in this space. The user will be able to click on any one of them and to read more about them. Perhaps we could even expand and provide information about which other museums have had these exhibitions as well.
