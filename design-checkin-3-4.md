@@ -37,13 +37,16 @@ Chris doesn’t usually go to museums, but is a curious person. When he visits m
 
 ### Design 1: 
 
-Main Idea:
+Main Idea: 
+Museum visitors will have the choice to either bring their own AR/VR glasses or use ones that will be provided at the entrance of the museum. The main idea of this design is to be able to support tasks that require the use of additional space, without actually using additional space.
 
 ![Revisit past galleries](/img/sketch1.jpg)
 
-Task 1:
+Task 1: Revisit past galleries.
+When visitors put on the glasses, they will interact with an interface that will guide them through finding the particular piece that they are looking for. This can be done by searching using dates, name of installation, where the piece was in the museum etc. Once found, users will be able to look around and see a gallery, for example, that is the way it was during the dates specified.
 
-Task 2:
+Task 2: Learn more information on installations
+The glasses will also allow users to use them in a "more information mode" setting. The glasses will then automatically display more information about installations (as users look at them), as an extension of what is written on the plaque.
 
 Task 3:
 
