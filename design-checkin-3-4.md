@@ -35,7 +35,7 @@ Chris doesn’t usually go to museums, but is a curious person. When he visits m
 
 ## Sketches
 
-### Design 1: 
+### Design 1: VR/AR Glasses
 
 #### Main Idea: 
 Museum visitors will have the choice to either bring their own AR/VR glasses or use ones that will be provided at the entrance of the museum. The main idea of this design is to be able to support tasks that require the use of additional space, without actually using additional space.
