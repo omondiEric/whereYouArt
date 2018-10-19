@@ -66,6 +66,8 @@ Taske 4:
 
 Main Idea:
 
+![Smart Watch Sketch](/img/sketch3.jpg)
+
 Task 1:
 
 Task 2:
