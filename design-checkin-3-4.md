@@ -32,3 +32,5 @@ Jack is a friendly museum visitor and likes to communicate to others. Being an a
 
 
 ## Sketches
+
+![Revisit past galleries](/img/sketch1.jpg)
