@@ -33,6 +33,8 @@ navbar-links:
     - Project Ideation: "sketches"
     - Task Review: "taskReview"
     - Project Design Check-In: "design-checkin-3-4"
+    - Project Design Review: "projectdesignreview"
+  Appendix: "appendix"
   Team:
     - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
     - Linda Zeng(lz2): "https://lzeng27.github.io"
