@@ -5,6 +5,9 @@ subtitle: User Experience Research Overview
 ---
 
 ## Team
+Julia Kawano
+Steve Omondi
+Linda Zeng
 
 ## Problem
 
@@ -15,6 +18,9 @@ subtitle: User Experience Research Overview
 ## Task Analysis Questions
 
 ## Proposed Design Sketches
+![Revisit past galleries](/img/sketch1.jpg)
+![Second sketch](/img/sketch2.jpg)
+![Smart Watch Sketch](/img/sketch3.jpg)
 
 ## Written Scenarios
 
