@@ -14,28 +14,27 @@ baseurl: "/whereYouArt"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: whereYouArt
+title: Where You Art
 
 # Short description of your site
-description: How much do you know about where you are?
+description:
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Proposal: "proposal"
-  Contextual Inquiry:
+  Project: "overview"
+  Appendix:
+    - Proposal: "proposal"
     - CI Plan: "contextual"
-    - CI 1 Check in: "contextual1"
+    - CI Check in: "contextual1"
     - CI Review: "contextualReview"
-  Team Contract: "contract"
-  Assignments:
     - Project Ideation: "sketches"
     - Task Review: "taskReview"
     - Project Design Check-In: "design-checkin-3-4"
     - Project Design Review: "project-design-review"
-  Appendix: "appendix"
   Team:
+    - Contract: "contract"
     - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
     - Linda Zeng(lz2): "https://lzeng27.github.io"
     - Steven Omondi(seo1): "https://omondieric.github.io/projectProposal/"
