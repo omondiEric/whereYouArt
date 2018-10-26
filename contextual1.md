@@ -28,7 +28,7 @@ We did not encounter difficulties getting information we needed.
 
 ### Discuss what remains to be pursued after your first inquiry. I fully expect changes will be necessary, as inquiries can be difficult to get right and often important topics are left unresolved. What are your plans for the remaining inquiries?
 
-We will want to interview someone from the staff to see what they consider significant events in WCMA's history and gain more insight on how people learn more about a place beyond just going to the website.
+We want to do other contextual inquiries with other participants who aren't frequent museum visitors. For our remaining contextual inquiries, we want to hone in on the pain points of potential users of our design. 
 
 ### How do you plan to change your protocol based on what you learned in your first inquiry?
 
