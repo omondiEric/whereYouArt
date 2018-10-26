@@ -9,7 +9,7 @@ Williams student, senior, male, has been to WCMA before and visits often, but no
 
 ### Who you observed or interviewed, their background, and the environment.
 
-We interviewed a senior Williams student who will we refer to as Jim. He has been to WCMA before and visits occasionally (~2 times a year) to explore the exhibits. We conducted our interview in the reading room, having Jim sit on a couch with a laptop. There were no other museum visitors, which was helpful in creating a quiet, focused space.
+We interviewed a senior Williams student who will we refer to as Jim. He has been to WCMA before and visits occasionally (~2 times a year) to explore the exhibits. We conducted our inquiry in the reading room, having Jim sit on a couch with a laptop. There were no other museum visitors, which was helpful in creating a quiet, focused space.
 
 ### What did you learn?
 
@@ -18,7 +18,7 @@ We interviewed a senior Williams student who will we refer to as Jim. He has bee
 
 ### What tasks, problems, or opportunities did you uncover?
 
-At the beginning, we asked Jim to research WCMA and he was a little confused about the task. He thought he had to do this from memory. We should be more specific for our next interviews. 
+For our inquiry, we asked Jim to construct a timeline of WCMA's history. He approached this by searching "WCMA history" on Google. He went on WCMA's website and proceeded to the history section. Using their history webpage, Jim began constructing the timeline in chronological order.
 
 Constructing a timeline became just a matter of copying and pasting the timeline from WCMA's website. Thankfully, Jim went through each entry and decided whether or not to include it in his own. We should ensure that future participants also do not just copy the entire thing.
 
