@@ -75,7 +75,7 @@ Following our three contextual inquiries, we worked together to evaluate our dat
 
 3. **What tasks are desired? (what do people want to do?)**
 
-   People want a more accessible, more engaging means of knowing a place's history. They want to be able to discover new information about
+   People want a more accessible, more engaging means of knowing a place's history. They want to be able to discover new information about the museum and be able to explore the space.
 
 4. **How are the tasks learned?**
 
