@@ -6,6 +6,7 @@ title: Project Design Check In
 
 
 # Task Descriptions
+<br>
 
 ## Revisit past galleries
 *New - moderate*
