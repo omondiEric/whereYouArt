@@ -52,7 +52,7 @@ The glasses will also allow users to use them in a "more information mode" setti
 Based on what the users search for, they will receive recommendations on which galleries to visit, that contain a similar style of art. Users will also have an option to use the glasses in "Explore" mode, and the glasses will guide them through the museum in the same way a member of staff would.
 
 #### Task 4: Interact with other museum visitors
-Statistical data on the usage of these glasses will be recorded and made publicly available to other visitors of the museum who use the glasses. This will promote indirect interaction with other visitors by providing users with the option of chosing to visit galleries (both present and past) that have been visited most by other users.
+Statistical data on the usage of these glasses will be recorded and made publicly available to other visitors of the museum who use the glasses. This will promote indirect interaction with other visitors by providing users with the option of choosing to visit galleries (both present and past) that have been visited most by other users.
 
 ### Design 2:
 
@@ -71,7 +71,7 @@ Uncover notes from past visitors and photos of exhibitions or specific pieces th
 Visitors can see various locations with which they can engage and further explore the various spaces.
 
 #### Task 4: Learn about WCMA's history
-Compare the present with a historical photo. Standing from the vantage point of a past photographer and be able to compare side-by-side the present with the photograph. 
+Compare the present with a historical photo. Standing from the vantage point of a past photographer and be able to compare side-by-side the present with the photograph.
 
 
 ## Design 3: Smart Watch

@@ -74,30 +74,56 @@ Through our contextual inquiry, we found that when people learn something new or
 
 ### Design 1: VR/AR glasses
 
+Museum visitors will have the choice to either bring their own AR/VR glasses or use ones that will be provided at the entrance of the museum. The main idea of this design is to be able to support tasks that require the use of additional space, without actually using additional space.
+
 ![Revisit past galleries](/img/sketch1.jpg)
 
-- Revisit past galleries
+- Revisit past galleries.
+When visitors put on the glasses, they will interact with an interface that will guide them through finding the particular piece that they are looking for. This can be done by searching using dates, name of installation, where the piece was in the museum etc. Once found, users will be able to look around and see a gallery, for example, that is the way it was during the dates specified.
+
 - Learn more information on installations
+The glasses will also allow users to use them in a "more information mode" setting. The glasses will then automatically display more information about installations (as users look at them), as an extension of what is written on the plaque. Users will also have an option to save the information they see by uploading it to external storage spaces, if they are interested.
+
 - Explore WCMA spaces
+Based on what the users search for, they will receive recommendations on which galleries to visit, that contain a similar style of art. Users will also have an option to use the glasses in "Explore" mode, and the glasses will guide them through the museum in the same way a member of staff would.
+
 - Interact with other museum visitors
+Statistical data on the usage of these glasses will be recorded and made publicly available to other visitors of the museum who use the glasses. This will promote indirect interaction with other visitors by providing users with the option of choosing to visit galleries (both present and past) that have been visited most by other users.
 
 ### Design 2: Interactive map (mobile app)
 
 ![Second sketch](/img/sketch2.jpg)
 
-- Revisit past galleries
 - Learn more information on installations
+Have access to a more detailed narrative provided by the curator, artist, or museum staff. "Scan" a piece of art to learn more about it.
+
+- Revisit past galleries
+Uncover notes from past visitors and photos of exhibitions or specific pieces that they engaged with. Then respond or leave your own memory.
+
 - Explore WCMA spaces
-- Learn more about WCMA's history
+Visitors can see various locations with which they can engage and further explore the various spaces.
+
+- Learn about WCMA's history
+Compare the present with a historical photo. Standing from the vantage point of a past photographer and be able to compare side-by-side the present with the photograph.
 
 ### Design 3: Smart watch
+
+The smart watch design aims to provide users with a more in-depth visiting experience, especially the space itself. It will make use of smart watch capabilities, such as the ability to scan QR codes and location sensors. The user will be able to learn more about specific exhibitions are they walk around the museum and learn about past galleries by scanning QR codes. The design with also make use of the location sensor where it is able to detect where the user is in the museum and provide more information about that location to the user. In addition, the smart watch will utilize the location sensor to guide users on how to get to spaces outside of the WCMA building.
 
 ![Smart Watch Sketch](/img/sketch3.jpg)
 
 - Learn more information on installations
-- Revisit past galleries
-- Learn more information on installations
+To fulfill this task, it requires a pre-requisite of all art installations having QR codes near them. When a user walks around the museum wearing their smart watch and come across an art piece of interest, they can use their smart watch to scan the corresponding QR code of the art piece. After scanning it, our design will display more information to the user about that current art piece onto the smart watch. We want to design it in such a way that there will be "hyperlinks" within this information.
+
 - Explore WCMA spaces
+Using the location sensor on smart watches, we can fulfill the task of exploring WCMA spaces beyond the museum. We plan on doing this by having an initial menu where one of the options labeled "Other WCMA Spaces." It would then ask the user which location to go to. After the user confirms, the smart watch acts as a map guide, telling the user where to go given their location. They will ultimately reach their new destination.
+
+
+- Learn about WCMA’s history
+We would use the location sensor to achieve this task. When a user is walking around in a museum, if they are standing in a place of interest, which takes into account both the floor they are on on their geographic location, their smart watch will notify the user with a vibration or sound. It would prompt the user informing them that their current location used to be something different, and gives the user the option to learn more about it. The smart watch will then display information about it onto the screen.
+
+- Revisit past galleries
+Outside of each gallery space, there will be a QR code that the user can scan. After scanning it, the smartwatch will display a list of all the past galleries in this space. The user will be able to click on any one of them and to read more about them. Perhaps we could even expand and provide information about which other museums have had these exhibitions as well.
 
 ### Final Design
 
