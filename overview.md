@@ -142,6 +142,6 @@ We decided to combine our ideas into a design for an AR app that will allow visi
 
 # Storyboards
 
-![View past galleries](/img/design-review/task-gallery.jpg)
+![View past galleries](/img/design-review/storyboard_final_1.jpg)
 
-![Interact with past galleries](/img/design-review/task-interactive.jpg)
+![Interact with past galleries](/img/design-review/storyboard_final_2.jpg)
