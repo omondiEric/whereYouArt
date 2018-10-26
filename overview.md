@@ -140,6 +140,8 @@ We decided to combine our ideas into a design for an AR app that will allow visi
    
 ### 2) Interact with past galleries
 
+Katie is not a frequent museum visitor, but she enjoys learning about art pieces when she visits museums. Upon entering WCMA, she learns about a new application that allows visitors to view past galleries. She picks up one of the tablets provided by WCMA and opens the app. She chooses to view a randomized past gallery through the app. As she looks through this gallery, an art piece catches her eye and wants to learn more about it. She clicks on that art piece and several thought bubbles pop up informing her of the title, artist, and the option to learn more. She chooses to learn more and reads about the art piece.
+
 # Storyboards
 
 ![View past galleries](/img/design-review/storyboard_final_1.jpg)
