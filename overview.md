@@ -6,11 +6,11 @@ subtitle: User Experience Research Overview
 
 # Team
 
-Julia Kawano
+Julia Kawano, Designer
 
-Steve Omondi
+Steve Omondi, Designer
 
-Linda Zeng
+Linda Zeng, Designer
 
 # Problem
 
