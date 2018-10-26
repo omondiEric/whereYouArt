@@ -1,4 +1,7 @@
-# Task Review
+---
+layout: page
+title: Task Review
+---
 
 ## View past galleries
 *New - easy*
