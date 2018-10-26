@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Project Design Review 1 x 2
+
 ---
 
 We are choosing a design that is a combination of two of our designs, which will be an AR app. The target audience for our design is museum visitors. Our design is better suited for this target audience because it provides a different museum experience than they are currently used to. Based on our contextual inquiries, our participants emphasized wanting easy access to things and the option to explore. We think that this AR app fulfills these preferences because most users have access to a smart phone and our app allows the user to explore past galleries. In considering the possibility that users won’t be incentivized to download the app onto their own devices, the museum could provide tablets with the app already downloaded. The two tasks that we have chosen to focus on are:
