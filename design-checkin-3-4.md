@@ -88,7 +88,7 @@ The smart watch design aims to provide users with a more in-depth visiting exper
 ![Smart Watch Sketch](/img/sketch3.jpg)
 
 #### Task 1: Learn more information on installations
-To fulfill this task, it requires a pre-requisite of all art installations having QR codes near them. When a user walks around the museum wearing their smart watch and come across an art piece of interest, they can use their smart watch to scan the corresponding QR code of the art piece. After scanning it, our design will display more information to the user about that current art piece onto the smart watch. We want to design it in such a way that there will be "hyperlinks" within this information.
+To fulfill this task, it requires a pre-requisite of all art installations having QR codes near them. When a user walks around the museum wearing their smart watch and come across an art piece of interest, they can use their smart watch to scan the corresponding QR code of the art piece. After scanning it, our design will display more information to the user about that current art piece onto the smart watch. We want to design it in such a way that there will be hyperlinks within this information.
 
 #### Task 2: Explore WCMA spaces
 Using the location sensor on smart watches, we can fulfill the task of exploring WCMA spaces beyond the museum. We plan on doing this by having an initial menu where one of the options labeled "Other WCMA Spaces." It would then ask the user which location to go to. After the user confirms, the smart watch acts as a map guide, telling the user where to go given their location. They will ultimately reach their new destination.
