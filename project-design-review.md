@@ -9,7 +9,7 @@ We previously had revisiting past galleries as one of our tasks, but broke that 
 
 
 ## 1) View past galleries
-![View past galleries](/img/design-review/task-gallery.jpg)
+![View past galleries](/img/design-review/storyboard_final_1.jpg)
 
 ## 2) Interact with past galleries
-![Interact with past galleries](/img/design-review/task-interactive.jpg)
+![Interact with past galleries](/img/design-review/storyboard_final_2.jpg)
