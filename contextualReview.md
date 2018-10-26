@@ -17,9 +17,7 @@ The CI took place at the WCMA reading room.
 In looking at old photos of the original museum building, Jim frequently looked back and forth between the photo (of just the octagonal rotunda section) and the current rotunda next to us. Jim had never seen the past buildings that became the WCMA we know today. He especially enjoyed learning more about things with which he is familiar, but didn't know the history of such as the eyes in front of WCMA.
 
 ### 2) Tanaka 
-A high school student at Greylock, who Has never been to WCMA.
-CI took place outside of WCMA.
-Tanaka developed an interest in knowing about programs that could help her know more about the museum and its art. She was particularly interested in the WALLS program.
+A high school student at Greylock, who Has never been to WCMA. CI took place outside of WCMA. Tanaka went on WCMA's history webpage to help her construct her timeline. In looking through the events on the page, she stated that she was confused because of the different names that WCMA has had. This suggested that the consistency of information is important in learning about the history of WCMA. Tanaka developed an interest in knowing about programs that could help her know more about the museum and its art. She was particularly interested in the WALLS program.
 
 ### 3) Karl 
 A Male, senior student at Williams, who takes mostly div 3/2 courses and has never been to WCMA before. CI took place at TCL 216. When asked how he went about constructing his timeline, the first webpage he went on was Wikipedia. He stated that he used Wikipedia as his first source because he didn't think WCMA would have a history webage. Moreover, he believes Wikipedia is an easier channel of obtaining quick information and likes to have an initial understanding of the topic at hand. He constructed his timeline an outline using information from the Wikipedia page. After having a general idea, he likes to use other sources to learn more, and proceeded to WCMA's website. He constructed his timeline in succinct words, stating that he preferred straightforward information. On exploring WCMA history, Karl took interest in the design of the website and critiqued the user interface of the website as a whole.
@@ -73,7 +71,7 @@ Following our three contextual inquiries, we worked together to evaluate our dat
 
 3. **What tasks are desired? (what do people want to do?)**
 
-   People want a more accessible, more engaging means of knowing a place's history. They want to be able to discover new information about the museum and be able to explore the space.
+   People want a more accessible means of knowing a place's history and they want that information to be conveyed in a way that's easy to understand. In addition, they want to be able to discover new information about the museum and be able to explore the space.
 
 4. **How are the tasks learned?**
 
