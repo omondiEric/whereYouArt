@@ -4,7 +4,7 @@ title: Where You Art
 subtitle: User Experience Research Overview
 ---
 
-## Team
+# Team
 
 Julia Kawano
 
@@ -12,19 +12,19 @@ Steve Omondi
 
 Linda Zeng
 
-## Problem
+# Problem
 
 You walk into an art museum and enjoy the exhibitions currently on display, but then you begin to wonder about previous shows. You wonder what they looked like, what pieces they had, and you wish there was a way to see, not only the museum space in its current state, but also galleries of the past. We have chosen to focus on the problems associated with the limitations of physical space and allowing museum visitors to learn more about where they are. Our proposed solution is an augmented reality mobile application that would allow visitors to view and interact with past exhibitions and their art.
 
-## Goals
+# Goals
 
 For our design research, we conducted a contextual inquiry. We met our participants at WCMA and asked them to learn more about their current location (WCMA) by conducting research, predominantly using online resources, and constructing a timeline of events they considered significant in the museum’s history. Our first participant, Jim, is a Williams student in his fourth year. He has visited WCMA on numerous occasions and engages frequently with their programming. Our second participant, Tanaka, is a local high school student who had never been to WCMA before, but was familiar with many of their outdoor pieces and their programs. Our final participant, Karl, is a Williams student who has never been to WCMA before. Our research focused on how people relatively unfamiliar with a space learn more about it, what they find most interesting or helpful, and what frustrations they face.
 
-## Results and Themes
+# Results and Themes
 
 Through our contextual inquiry, we found that when people learn something new or see a name they recognize, it sparks a desire to learn even more. We hope that our design will cultivate and encourage that feeling in our users. We also found that people like to visualize information, especially through pictures as they provide a physical connection between the past and the present. One of the biggest challenges we faced designing and executing our contextual inquiry was that it is hard to judge what information people want to know, especially when it is not available or difficult to find.
 
-## Task Analysis Questions
+# Task Analysis Questions
 
 1. **Who is going to use the design?**
 
@@ -70,19 +70,47 @@ Through our contextual inquiry, we found that when people learn something new or
 
    People get confused and frustrated. They give up, stop their search, and do not learn anything new. They are also less likely to trust that the next time they want to know something that they will be able to find it.
 
-## Proposed Design Sketches
+# Proposed Design Sketches
+
+### Design 1: VR/AR glasses
+
 ![Revisit past galleries](/img/sketch1.jpg)
+
+- Revisit past galleries
+- Learn more information on installations
+- Explore WCMA spaces
+- Interact with other museum visitors
+
+### Design 2: Interactive map (mobile app)
 
 ![Second sketch](/img/sketch2.jpg)
 
+- Revisit past galleries
+- Learn more information on installations
+- Explore WCMA spaces
+- Learn more about WCMA's history
+
+### Design 3: Smart watch
+
 ![Smart Watch Sketch](/img/sketch3.jpg)
 
-## Written Scenarios
+- Learn more information on installations
+- Revisit past galleries
+- Learn more information on installations
+- Explore WCMA spaces
 
-## Storyboards
+### Final Design
+
+We decided to combine our ideas into a design for an AR app that will allow visitors to explore and engage with past exhibitions. After reevaluating our tasks, we chose to break down the task of revisiting past galleries into two tasks: 1) viewing past shows and 2) interacting with artwork previously on display. This allows the history of WCMA to be incorporated into the visitor's museum experience as they can see previous exhibitions and a explore a greater part of WCMA's collection.
+
+# Written Scenarios
 
 ### 1) View past galleries
-![View past galleries](/img/design-review/task-gallery.jpg)
 
 ### 2) Interact with past galleries
+
+# Storyboards
+
+![View past galleries](/img/design-review/task-gallery.jpg)
+
 ![Interact with past galleries](/img/design-review/task-interactive.jpg)
