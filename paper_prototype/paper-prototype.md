@@ -3,10 +3,7 @@ layout: page
 title: Paper Prototype
 ---
 
-# The Big Picture
-![Panorama](gallery_panorama.jpg)
-
-
+## Home Screen
 
 ![Home Screen](home.jpg){:height="50%" width="50%"}
 
@@ -41,5 +38,8 @@ title: Paper Prototype
 
 ![More Info](more_info.jpg){:height="50%" width="50%"}
 
+
+## The Big Picture
+![Panorama](gallery_panorama.jpg)
 
 Image Source: ![The Fishbach Gallery](http://www.bradmarshallart.com/gallerypan07.htm)
