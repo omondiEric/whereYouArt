@@ -23,7 +23,7 @@ title: Paper Prototype
 
 ### 2) User Search
 
-<img src="{{ site.baseurl }}/paper_prototype/search_categories.jpg" data-rotate="270"/>
+<img src="{{ site.baseurl }}/paper_prototype/search_categories.jpg" data-rotate="270" height="50%" width="50%"/>
 
 <img src="{{ site.baseurl }}/paper_prototype/search_results.jpg" data-rotate="270"/>
 
