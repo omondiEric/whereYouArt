@@ -23,6 +23,10 @@ title: Paper Prototype
 
 ### 2) User Search
 
+<img src="search_categories.jpg" data-rotate="270" height="50%" width="50%"/>
+
+<img src="search_results.jpg" data-rotate="270" height="50%" width="50%"/>
+
 ![Search](search_categories.jpg){:height="50%" width="50%"}
 
 ![Search Results](search_results.jpg){:height="50%" width="50%"}
