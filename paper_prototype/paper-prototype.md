@@ -28,7 +28,7 @@ Once the user confirms their location, they will be prompted to choose between a
 
 ### 2) User Search
 
-<img src="{{ site.baseurl }}/paper_prototype/search_categories.jpg" data-rotate="270" height="50%" width="50%"/>
+<img src="{{ site.baseurl }}/paper_prototype/search_categories.jpg" data-rotate="90" height="50%" width="50%"/>
 
 <img src="search_results.jpg" data-rotate="270" height="50%" width="50%"/>
 
