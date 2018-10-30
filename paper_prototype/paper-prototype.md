@@ -28,9 +28,9 @@ Once the user confirms their location, they will be prompted to choose between a
 
 ### 2) User Search
 
-<img src="{{ site.baseurl }}/paper_prototype/search_categories.jpg" data-rotate="90" height="50%" width="50%"/>
+<img src="{{ site.baseurl }}/paper_prototype/search_categories.jpg" data-rotate="270" height="50%" width="50%"/>
 
-<img src="search_results.jpg" data-rotate="270" height="50%" width="50%"/>
+<img src="{{ site.baseurl }}/paper_prototype/search results.jpg" data-rotate="270" height="50%" width="50%"/>
 
 ![Search](search_categories.jpg){:height="50%" width="50%"}
 
@@ -45,8 +45,11 @@ Once the user confirms their location, they will be prompted to choose between a
 
 ![Interesting Art](info_bubbles.jpg){:height="50%" width="50%"}
 
+Once a user is viewing a past gallery, they can touch an art piece and the app displays the title and artist of the piece. In addition, they have to option to learn more by clicking on the “Learn more” information bubble.
+
 ![More Info](more_info.jpg){:height="50%" width="50%"}
 
+The app displays a more detailed explanation of the art piece for the user. The user can return to the gallery by selecting the back option.
 
 ## The Big Picture
 ![Panorama](gallery_panorama.jpg)
