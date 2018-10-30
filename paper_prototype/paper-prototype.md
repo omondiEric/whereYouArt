@@ -28,15 +28,11 @@ When the user selects to view installations randomly, they are shown previous in
 
 ### 2) User Search
 
-<img src="search_categories.jpg" data-rotate="270" height="50%" width="50%"/>
-
-{% ![Search](search_categories.jpg){:height="50%" width="50%"} %}
+![Search](search_categories.jpg){:height="50%" width="50%"}
 
 If the user chooses to not to display a random gallery, they have the option to search for a past gallery. 
 
-<img src="search_results.jpg" data-rotate="270" height="50%" width="50%"/>
-
-{% ![Search Results](search_results.jpg){:height="50%" width="50%"} %}
+![Search Results](search_results.jpg){:height="50%" width="50%"}
 
 They can search by name, date, artist, or type. The app displays an auto-fill as the user types. 
 
