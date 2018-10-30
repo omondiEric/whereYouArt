@@ -4,7 +4,8 @@ title: Paper Prototype
 ---
 
 # The Big Picture
-![Panorama](gallery_panorama.jpg){:height="50%" width="50%"}
+![Panorama](gallery_panorama.jpg)
+
 
 
 ![Home Screen](home_screen.jpg){:height="50%" width="50%"}
@@ -19,10 +20,11 @@ title: Paper Prototype
 
 ## Task: View past gallery
 
-1) Randomized Gallery
+### 1) Randomized Gallery
+
 ![Gallery View](view_gallery.jpg){:height="50%" width="50%"}
 
-2) User Search
+### 2) User Search
 
 ![Search](search_categories.jpg){:height="50%" width="50%"}
 
