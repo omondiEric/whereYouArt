@@ -46,4 +46,4 @@ title: Paper Prototype
 ## The Big Picture
 ![Panorama](gallery_panorama.jpg)
 
-Image Source: ![The Fishbach Gallery](http://www.bradmarshallart.com/gallerypan07.htm)
+Image Source: ![The Fishbach Gallery](https://www.bradmarshallart.com/gallerypan07.htm)
