@@ -13,7 +13,8 @@ The application will detect the user's location within the museum so as to be ab
 
 ![Opening Screen](location.jpg){:height="50%" width="50%"}
 
-## 
+## Gallery Choice
+
 Once the user confirms their location, they will be prompted to choose between a random view of the gallery's installations, or search for something specific.
 
 ![Location Detection](gallery.jpg){:height="50%" width="50%"}
