@@ -20,7 +20,6 @@ Once the user confirms their location, they will be prompted to choose between a
 ![Location Detection](gallery.jpg){:height="50%" width="50%"}
 
 
-
 ## Task: View past gallery
 
 ### 1) Randomized Gallery
@@ -30,30 +29,22 @@ When the user selects to view installations randomly, they are shown previous in
 ### 2) User Search
 
 <img src="search_categories.jpg" data-rotate="270" height="50%" width="50%"/>
+{% ![Search](search_categories.jpg){:height="50%" width="50%"} %}
 
 If the user chooses to not to display a random gallery, they have the option to search for a past gallery. 
 
-
 <img src="search_results.jpg" data-rotate="270" height="50%" width="50%"/>
-
-![Search](search_categories.jpg){:height="50%" width="50%"}
-
-
-
-![Search Results](search_results.jpg){:height="50%" width="50%"}
+{% ![Search Results](search_results.jpg){:height="50%" width="50%"} %}
 
 They can search by name, date, artist, or type. The app displays an auto-fill as the user types. 
 
 ![Confirmation](confirmation.jpg){:height="50%" width="50%"}
 
-
 Once the user selects a gallery to view, the app prompts them to confirm their selection.
-
 
 ![Gallery View](view_gallery.jpg){:height="50%" width="50%"}
 
 After the user confirms, the app displays the gallery.
-
 
 ## Task: Interact with past gallery
 
