@@ -25,7 +25,7 @@ title: Paper Prototype
 
 <img src="{{ site.baseurl }}/paper_prototype/search_categories.jpg" data-rotate="90" height="50%" width="50%"/>
 
-<img src="{{ site.baseurl }}/paper_prototype/search_results.jpg" data-rotate="90"/>
+<img src="{{ site.baseurl }}/paper_prototype/search_results.jpg" data-rotate="90" height="50%" width="50%"/>
 
 ![Search](search_categories.jpg){:height="50%" width="50%"}
 
