@@ -30,23 +30,39 @@ When the user selects to view installations randomly, they are shown previous in
 
 <img src="search_categories.jpg" data-rotate="270" height="50%" width="50%"/>
 
+If the user chooses to not to display a random gallery, they have the option to search for a past gallery. 
+
+
 <img src="search_results.jpg" data-rotate="270" height="50%" width="50%"/>
 
 ![Search](search_categories.jpg){:height="50%" width="50%"}
 
+
+
 ![Search Results](search_results.jpg){:height="50%" width="50%"}
+
+They can search by name, date, artist, or type. The app displays an auto-fill as the user types. 
 
 ![Confirmation](confirmation.jpg){:height="50%" width="50%"}
 
+
+Once the user selects a gallery to view, the app prompts them to confirm their selection.
+
+
 ![Gallery View](view_gallery.jpg){:height="50%" width="50%"}
+
+After the user confirms, the app displays the gallery.
 
 
 ## Task: Interact with past gallery
 
 ![Interesting Art](info_bubbles.jpg){:height="50%" width="50%"}
 
+Once a user is viewing a past gallery, they can touch an art piece and the app displays the title and artist of the piece. In addition, they have to option to learn more by clicking on the “Learn more” information bubble.
+
 ![More Info](more_info.jpg){:height="50%" width="50%"}
 
+The app displays a more detailed explanation of the art piece for the user. The user can return to the gallery by selecting the back option.
 
 ## The Big Picture
 ![Panorama](gallery_panorama.jpg)
