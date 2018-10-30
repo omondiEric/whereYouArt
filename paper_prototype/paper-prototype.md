@@ -3,8 +3,6 @@ layout: page
 title: Paper Prototype
 ---
 
-library(magick)
-
 ## Home Screen
 
 ![Home Screen](home.jpg){:height="50%" width="50%"}
@@ -27,8 +25,7 @@ library(magick)
 
 ![Search](search_categories.jpg){:height="50%" width="50%"}
 
-results <- (search_results.jpg){:height="50%" width="50%"}
-![Search Results](image_rotate(results, 270))
+![Search Results](search_results.jpg){:height="50%" width="50%"}
 
 ![Confirmation](confirmation.jpg){:height="50%" width="50%"}
 
