@@ -65,7 +65,7 @@ Once a user is viewing a past gallery, they can touch an art piece and the app d
 
 The app displays a more detailed explanation of the art piece for the user. The user can return to the gallery by selecting the back option.
 
-## The Big Picture
+## The Big Picture 
 ![Panorama](gallery_panorama.jpg)
 
 Image Source: ![The Fishbach Gallery](http://www.bradmarshallart.com/gallerypan07.htm)
