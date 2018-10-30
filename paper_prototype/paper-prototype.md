@@ -8,7 +8,7 @@ title: Paper Prototype
 
 
 
-![Home Screen](home_screen.jpg){:height="50%" width="50%"}
+![Home Screen](home.jpg){:height="50%" width="50%"}
 
 
 ![Opening Screen](opening_screen.jpg){:height="50%" width="50%"}
