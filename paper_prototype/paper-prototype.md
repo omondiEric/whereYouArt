@@ -11,10 +11,10 @@ title: Paper Prototype
 ![Home Screen](home.jpg){:height="50%" width="50%"}
 
 
-![Opening Screen](opening_screen.jpg){:height="50%" width="50%"}
+![Opening Screen](location.jpg){:height="50%" width="50%"}
 
 
-![Location Detection](location_notification.jpg){:height="50%" width="50%"}
+![Location Detection](gallery.jpg){:height="50%" width="50%"}
 
 
 
