@@ -18,9 +18,13 @@ title: Heuristic Evaluation
 #### Conducted by: Linda and Julia
 #### Facilitated by: Javi
 
+![evaluation_3](img/heuristic_eval/heuristic_eval_3.jpg)
 
 ## Table
 
 #### Identified issues
 One of the main issues that was identified during the evaluations, was the luck of providing the user 
 with a way to navigate back to previous pages.
+
+
+
