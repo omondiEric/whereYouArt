@@ -20,8 +20,6 @@ Control & Freedom | Can't pan/zoom piece | 1
 #### Conducted by: Steve
 #### Facilitated by: Daniel and Spencer
 
-#### List of results:
-
 ![evaluation 1](img/heuristic_eval/HE1.jpg)
 
 ![evaluation 2](img/heuristic_eval/HE2.jpg)
@@ -33,13 +31,11 @@ Control & Freedom | Can't pan/zoom piece | 1
 
 ![evaluation_3](img/heuristic_eval/heuristic_eval_3.jpg)
 
-
-
-### Revisions
+## Revisions
 
 #### 1) Back buttons
 
-One of the main issues that was identified during the evaluations was the option to navigate backwards to previous screens or going back to select different galleries. We made revisions of this below. The lack of these buttons made it difficult to provide flexibility to the user.
+One of the main issues that was identified during the evaluations was the option to navigate backwards to previous screens or going back to select different galleries. We made revisions of this below. The lack of these buttons made it difficult to provide flexibility to the user if they made a mistake or changed their mind. In addition, this prevented them from exploring the app in its entirety.
 
 ![back buttons](img/heuristic_eval/new_back_buttons.jpg)
 
@@ -71,6 +67,8 @@ We overlooked that we needed a keyboard in our prototype for when the user wants
 ![keyboard] (img/heuristic_eval/new_keyboard.jpg)
 
 ## Overview
+
+This is the pieces of our revised prototype, which includes the revisions we made.
 
 ![revised prototype](img/heuristic_eval/new_overview.jpg)
 
