@@ -39,39 +39,39 @@ Control & Freedom | Can't pan/zoom piece | 1
 
 #### 1) Back buttons
 
-One of the main issues that was identified during the evaluations was the option to navigate backwards--to previous screens or going back to select different galleries. We made revisions of this below. The lack of these buttons made it difficult to provide flexibility to the user.
+One of the main issues that was identified during the evaluations was the option to navigate backwards to previous screens or going back to select different galleries. We made revisions of this below. The lack of these buttons made it difficult to provide flexibility to the user.
 
-![back buttons]()
+![back buttons](img/heuristic_eval/new_back_buttons.jpg)
 
 
 #### 2) Highlight selected piece
 
 Another revision we made we made was highlighting the piece in the gallery that user wants to interact with. This wasn't something we'd thought about, but think it can be useful in indicating to the user what they selected and can serve as feedback to user that the app is working.
 
-![highlight piece]()
+![highlight piece](img/heuristic_eval/new_highlight.jpg)
 
 
 #### 3) Help 
 
 We made changes to provide help to the users if they weren't sure what the app was supposed to do. To provide help, we included a question mark button, which would direct the user to a new screen that provides more information.
 
-![help]()
+![help](img/heuristic_eval/new_help.jpg)
 
 
 #### 4) Pan & Zoom
 We included a pan and zoom option when the user wants to learn more about a piece of artwork. In this picture, the new piece is supposed to show a zoomed in version of one of the art pieces
 
-![zoom]
+![zoom](img/heuristic_eval/new_zoom.jpg)
 
 
 
 #### 5) Keyboard
 We overlooked that we needed a keyboard in our prototype for when the user wants to search for a gallery
 
-![keyboard]
+![keyboard] (img/heuristic_eval/new_keyboard.jpg)
 
 ## Overview
 
-![revised prototype]()
+![revised prototype](img/heuristic_eval/new_overview.jpg)
 
 
