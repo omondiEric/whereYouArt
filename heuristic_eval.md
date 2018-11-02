@@ -58,6 +58,18 @@ We made changes to provide help to the users if they weren't sure what the app w
 ![help]()
 
 
+#### 4) Pan & Zoom
+We included a pan and zoom option when the user wants to learn more about a piece of artwork. In this picture, the new piece is supposed to show a zoomed in version of one of the art pieces
+
+![zoom]
+
+
+
+#### 5) Keyboard
+We overlooked that we needed a keyboard in our prototype for when the user wants to search for a gallery
+
+![keyboard]
+
 ## Overview
 
 ![revised prototype]()
