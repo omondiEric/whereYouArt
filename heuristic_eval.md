@@ -64,7 +64,7 @@ We included a pan and zoom option when the user wants to learn more about a piec
 #### 5) Keyboard
 We overlooked that we needed a keyboard in our prototype for when the user wants to search for a gallery
 
-![keyboard] (img/heuristic_eval/new_keyboard.jpg)
+![keyboard](img/heuristic_eval/new_keyboard.jpg)
 
 ## Overview
 
