@@ -35,7 +35,7 @@ Control & Freedom | Can't pan/zoom piece | 1
 
 #### 1) Back buttons
 
-One of the main issues that was identified during the evaluations was the option to navigate backwards to previous screens or going back to select different galleries. We made revisions of this below. The lack of these buttons made it difficult to provide flexibility to the user if they made a mistake or changed their mind. In addition, this prevented them from exploring the app in its entirety.
+One of the main issues that was identified during the evaluations was the option to navigate backwards to previous screens, going back to select different galleries, or switching between galleries. We made revisions of this below. The lack of these buttons made it difficult to provide flexibility to the user if they made a mistake or changed their mind. In addition, this prevented them from exploring the app in its entirety.
 
 ![back buttons](img/heuristic_eval/new_back_buttons.jpg)
 
@@ -65,6 +65,11 @@ We included a pan and zoom option when the user wants to learn more about a piec
 We overlooked that we needed a keyboard in our prototype for when the user wants to search for a gallery
 
 ![keyboard](img/heuristic_eval/new_keyboard.jpg)
+
+#### 6) Exit
+
+We included the ability to exit the app.
+![exit](img/heuristic_eval/new_exit.jpg)
 
 ## Overview
 
