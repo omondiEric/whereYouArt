@@ -10,4 +10,6 @@ title: Heurisitic Evaluation
 
 #### List of results:
 
-![evaluation 1](/img/heuristic_eval/heurisitic_eval_1.jpg)
+![evaluation 1](/img/heuristic_eval/HE1.jpg)
+![evaluation 1](/img/heuristic_eval/HE2.jpg)
+
