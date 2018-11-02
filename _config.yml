@@ -35,7 +35,7 @@ navbar-links:
     - Project Design Review: "project-design-review"
   Understanding to Make:
     - Paper Prototype: "paper_prototype/paper-prototype"
-    - Heuristic Evaluation: "paper_prototype/heuristic-eval"
+    - Heuristic Evaluation: "heuristic-eval"
   Team:
     - Contract: "contract"
     - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
