@@ -6,11 +6,14 @@ title: Heuristic Evaluation
 ## Table
 
 Heuristic Broken | Description | Severity
------------------|-------------|------------
-Error Prevention | No sugestions when user | 2
-Control & Freedom | User cannot go back to previous choice when | 2
-Visibility | Once a gallery is selected, the artworks themselves are not highlighted | 1
-Control & Freedom
+---------------- | ----------- | ----------
+Control & Freedom | User cannot go back to previous choice  | 2
+Visibility | Once a gallery is selected, the artworks are not highlighted | 1
+Control & Freedom | Cannot exit app when opening | 4
+Help | No explanation of what "random" means as opposed to "search" | 3
+Flexibility & Efficiency | Can't switch between galleries | 4
+Flexbility & Efficiency | Can't go back when selecting gallery | 3
+Control & Freedom | Can't pan/zoom piece | 1
 
 
 ## Evaluation 1:
