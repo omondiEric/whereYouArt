@@ -69,6 +69,7 @@ We overlooked that we needed a keyboard in our prototype for when the user wants
 #### 6) Exit
 
 We included the ability to exit the app.
+
 ![exit](img/heuristic_eval/new_exit.jpg)
 
 ## Overview
