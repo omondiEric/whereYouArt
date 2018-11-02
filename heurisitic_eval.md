@@ -12,5 +12,5 @@ title: Heurisitic Evaluation
 
 ![evaluation 1](/img/heuristic_eval/HE1.jpg)
 
-![evaluation 1](/img/heuristic_eval/HE2.jpg)
+![evaluation 2](/img/heuristic_eval/HE2.jpg)
 
