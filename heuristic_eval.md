@@ -36,15 +36,22 @@ Control & Freedom | Can't pan/zoom piece | 1
 
 
 ### Revisions
+
+#### 1) Back buttons
+
 One of the main issues that was identified during the evaluations was the option to navigate backwards--to previous screens or going back to select different galleries. We made revisions of this below. The lack of these buttons made it difficult to provide flexibility to the user.
 
 ![back buttons]()
+
+
+#### 2) Highlight selected piece
 
 Another revision we made we made was highlighting the piece in the gallery that user wants to interact with. This wasn't something we'd thought about, but think it can be useful in indicating to the user what they selected and can serve as feedback to user that the app is working.
 
 ![highlight piece]()
 
 
+#### 3) Help 
 
 We made changes to provide help to the users if they weren't sure what the app was supposed to do. To provide help, we included a question mark button, which would direct the user to a new screen that provides more information.
 
