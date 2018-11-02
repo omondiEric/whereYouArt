@@ -14,3 +14,6 @@ title: Heurisitic Evaluation
 
 ![evaluation 2](/img/heuristic_eval/HE2.jpg)
 
+#### Identified issues
+One of the main issues that was identified during the evaluations, was the luck of providing the user 
+with a way to navigate back to previous pages.
