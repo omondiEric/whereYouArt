@@ -36,6 +36,7 @@ navbar-links:
   Understanding to Make:
     - Paper Prototype: "paper_prototype/paper-prototype"
     - Heuristic Evaluation: "heuristic_eval"
+    - Usability Testing Check-in: "usability-test-checkin"
   Team:
     - Contract: "contract"
     - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
