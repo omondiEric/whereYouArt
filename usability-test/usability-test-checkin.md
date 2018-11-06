@@ -30,21 +30,25 @@ Since this is an action that is widely used in various designs, we do not find i
 
 ## Usability Test
 
-For our first usability test, Julia and Linda took notes and Steve was the computer.
+For our first usability test, Julia and Linda took notes and Steve was the computer. From this usability test, we learned several things. The first was that it's really easy to overlook simple things as designers, for example, the inclusion of a heading to clarify what a screen is for. Although our paper prototype isn't supposed to be the real thing, it shouldn't oversimplify the actual app. In addition, we learned that it's important to provide a brief overview of our design to the user before testing. 
 
 ### Critical Incidents
 
 
-1) Confusion with "______" gallery screen, Severity: 2
+**1) Confusion with "______" gallery screen, Severity: 2 **
+
+On the screen indicating the user what gallery they are currenty in, the user asked us for clarification about what it meant. 
+
+**2) Indicate that art pieces are clickable, Severity: 3 **
 
 
-2) Indicate that art pieces are clickable, Severity: 3
+
+**3) Search button, Severity: 4**
 
 
-3) Search button, Severity: 4
 
+**4) Search Results Heading, Severity: 3**
 
-4) Search Results Heading, Severity: 3
 
 
 ### Positive Feedback
