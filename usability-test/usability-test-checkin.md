@@ -35,11 +35,11 @@ For our first usability test, Julia and Linda took notes and Steve was the compu
 ### Critical Incidents
 
 
-**1) Confusion with "______" gallery screen, Severity: 2 **
+**1) Confusion with "______" gallery screen, Severity: 2**
 
 On the screen indicating the user what gallery they are currenty in, the user asked us for clarification about what it meant. 
 
-**2) Indicate that art pieces are clickable, Severity: 3 **
+**2) Indicate that art pieces are clickable, Severity: 3**
 
 
 
