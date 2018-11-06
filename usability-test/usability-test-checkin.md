@@ -24,6 +24,8 @@ Our first usability test was conducted in one of the common rooms in Lehman, wit
 
 We haven't yet revised this as we are still in discussion of the various ways we can solve this problem such as adding highlighting around every frame (without the user needing to tap them) or adding an animation of a finger tap to show the user the supported action. We also believe that once a user knows this is an existing action they can take, it is relatively natural, so having an introductory tutorial for the app may also be a solution.
 
+![clickable](updated_highlight.jpg)
+
 - Action of zooming in on image of artwork is not visible (1)
 
 Since this is an action that is widely used in various designs, we do not find it critical that this action is not visible.
