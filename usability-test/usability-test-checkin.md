@@ -18,3 +18,11 @@ Confirm location
 Start a search
 Enter criteria
 Select show
+
+
+
+
+
+
+#### Plan
+Some aspects of functionality that may seem obvious to us may not be so obvious to other people. In a bid to make our product more inclusive, it is important that we take note of some of the features of our product that may not stand out to a user who is not tech savvy. For our next usability test, we therefore plan to have a participant who considers him/herself as a person who is not tech savvy. We also plan to shift responsibilities, giving every member of the team a chance to experience different roles.
