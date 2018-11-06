@@ -31,7 +31,8 @@ We haven't yet revised this as we are still in discussion of the various ways we
 Since this is an action that is widely used in various designs, we do not find it critical that this action is not visible.
 
 ![before zoom](before_zoom.jpg)
-![after zoom] (after_zoom.jpg) 
+
+![after zoom](after_zoom.jpg) 
 
 ## Usability Test
 
@@ -70,11 +71,16 @@ Overall, We had mostly positive feedback from our user about the prototype. He i
 
 ## Overview
 
+![overview](updated_overview.jpg)
 
 
 ### Task 1 Components - Interact with a random art piece 
 
+![interact](overview_interact.jpg)
+
 ### Task 2 Components - View an exhibition in the gallery from 2010
+
+![search 2010](overview_search.jpg)
 
 ## Plan
 
