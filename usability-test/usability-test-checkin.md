@@ -34,25 +34,27 @@ For our first usability test, Julia and Linda took notes and Steve was the compu
 
 ### Critical Incidents
 
-
 **1) Confusion with "______" gallery screen, Severity: 2**
 
-On the screen indicating the user what gallery they are currenty in, the user asked us for clarification about what it meant. 
+On the screen indicating the user what gallery they are currenty in, the user asked us for clarification about what it meant. In addition, the user was confused about the "Random" and "Search" buttons. We had to give Kim an explanation of what our intentions for each button were.
+![gallery screen]()
 
 **2) Indicate that art pieces are clickable, Severity: 3**
 
-
+During our test, we had to tell Kim that he was able to click on each art piece. We need to include some type of signifier that the user can click on each art piece. Possible revisions can be to clearly highlight the frames of each art piece or to adding an animation of a finger that the user should click.
 
 **3) Search button, Severity: 4**
 
+We didn't include a search button on the search screen. Although Kim was able to search with the keyboard, there was no way for him to complete the actual search. An alt
 
+**4) Search Results Heading, Severity: 2**
 
-**4) Search Results Heading, Severity: 3**
-
-
+After Kim did his search for a 2010 gallery, we had to explain to him what the list was, and so it would be helpful to insert a search heading indicating what the list is. 
 
 ### Positive Feedback
+
 Overall, We had mostly positive feedback from our user about the prototype. He indicated that he thought the idea was cool. The interaction was very smooth--he completed the tasks relatively naturally and minimal guidance. This suggests to us that Kim was someone who was already familiar with this type of technology and that we should branch out in our selection of users for testing.
 
 ## Plan
+
 Some aspects of functionality that may seem obvious to us may not be so obvious to other people. In a bid to make our product more inclusive, it is important that we take note of some of the features of our product that may not stand out to a user who is not tech savvy. For our next usability test, we therefore plan to have a participant who considers him/herself as a person who is not tech savvy. We also plan to shift responsibilities, giving every member of the team a chance to experience different roles. 
