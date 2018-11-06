@@ -30,9 +30,25 @@ Since this is an action that is widely used in various designs, we do not find i
 
 ## Usability Test
 
+For our first usability test, Julia and Linda took notes and Steve was the computer.
+
+### Critical Incidents
 
 
+1) Confusion with "______" gallery screen, Severity: 2
 
+
+2) Indicate that art pieces are clickable, Severity: 3
+
+
+3) Search button, Severity: 4
+
+
+4) Search Results Heading, Severity: 3
+
+
+### Positive Feedback
+Overall, We had mostly positive feedback from our user about the prototype. He indicated that he thought the idea was cool. The interaction was very smooth--he completed the tasks relatively naturally and minimal guidance. This suggests to us that Kim was someone who was already familiar with this type of technology and that we should branch out in our selection of users for testing.
 
 ## Plan
-Some aspects of functionality that may seem obvious to us may not be so obvious to other people. In a bid to make our product more inclusive, it is important that we take note of some of the features of our product that may not stand out to a user who is not tech savvy. For our next usability test, we therefore plan to have a participant who considers him/herself as a person who is not tech savvy. We also plan to shift responsibilities, giving every member of the team a chance to experience different roles.
+Some aspects of functionality that may seem obvious to us may not be so obvious to other people. In a bid to make our product more inclusive, it is important that we take note of some of the features of our product that may not stand out to a user who is not tech savvy. For our next usability test, we therefore plan to have a participant who considers him/herself as a person who is not tech savvy. We also plan to shift responsibilities, giving every member of the team a chance to experience different roles. 
