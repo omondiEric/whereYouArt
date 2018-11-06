@@ -9,15 +9,15 @@ Our first usability test was conducted in one of the common rooms in Lehman, wit
 #### Task 1 - Interact with a random art piece
   - Confirm location
   - Choose a gallery
-Choose a piece
-Gather more information about that piece
-Look closely at piece
+  - Choose a piece
+  - Gather more information about that piece
+  - Look closely at piece
 
 #### Task 2 - View an exhibition in the gallery from 2010
-Confirm location
-Start a search
-Enter criteria
-Select show
+  - Confirm location
+  - Start a search
+  - Enter criteria
+  - Select show
 
 
 
