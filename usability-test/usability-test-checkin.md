@@ -19,10 +19,20 @@ Our first usability test was conducted in one of the common rooms in Lehman, wit
   - Enter criteria
   - Select show
 
+## Cognitive Walk-Through
+- Action of selecting artwork to display more information about it is not visible (3)
+
+We haven't yet revised this as we are still in discussion of the various ways we can solve this problem such as adding highlighting around every frame (without the user needing to tap them) or adding an animation of a finger tap to show the user the supported action. We also believe that once a user knows this is an existing action they can take, it is relatively natural, so having an introductory tutorial for the app may also be a solution.
+
+- Action of zooming in on image of artwork is not visible (1)
+
+Since this is an action that is widely used in various designs, we do not find it critical that this action is not visible.
+
+## Usability Test
 
 
 
 
 
-#### Plan
+## Plan
 Some aspects of functionality that may seem obvious to us may not be so obvious to other people. In a bid to make our product more inclusive, it is important that we take note of some of the features of our product that may not stand out to a user who is not tech savvy. For our next usability test, we therefore plan to have a participant who considers him/herself as a person who is not tech savvy. We also plan to shift responsibilities, giving every member of the team a chance to experience different roles.
