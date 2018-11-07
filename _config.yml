@@ -37,6 +37,7 @@ navbar-links:
     - Paper Prototype: "paper_prototype/paper-prototype"
     - Heuristic Evaluation: "heuristic_eval"
     - Usability Testing Check-in: "usability-test/usability-test-checkin"
+    - Usability Testing Review: "usability-test/usability-testing-review"
   Team:
     - Contract: "contract"
     - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
