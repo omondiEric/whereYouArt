@@ -32,28 +32,28 @@ Not clear that art pieces being viewed can be clicked to view more information
 ## Paper Prototype
 
 ### Overview
-![overview of the paper prototype components](final-img/design-review/paper-overview.JPG)
+![overview of the paper prototype components](paper-overview.JPG)
 
 Here is an overview of our paper prototype and its components
 
 ### Task 1 - Interact with a random piece of art
 
-![welcome screen](final-img/design-review/paper-0.jpg)
-![confirm location](img/design-review/paper-1.jpg)
-![search or random](img/design-review/paper-2.jpg)
-![welcome to AR gallery](img/design-review/paper-6.jpg)
-![explore AR gallery](img/design-review/paper-7.jpg)
-![click piece](img/design-review/paper-8.jpg)
-![learn more about piece](img/design-review/paper-9.jpg)
+![welcome screen](paper-0.jpg)
+![confirm location](paper-1.jpg)
+![search or random](paper-2.jpg)
+![welcome to AR gallery](paper-6.jpg)
+![explore AR gallery](paper-7.jpg)
+![click piece](paper-8.jpg)
+![learn more about piece](paper-9.jpg)
 
 ### Task 2 - Explore a show from 2010
 
-![welcome screen](img/design-review/paper-0.jpg)
-![confirm location](img/design-review/paper-1.jpg)
-![search or random](img/design-review/paper-2.jpg)
-![search criteria](img/design-review/paper-4.jpg)
-![search results](img/design-review/paper-5.jpg)
-![welcome to AR gallery](img/design-review/paper-6.jpg)
+![welcome screen](paper-0.jpg)
+![confirm location](paper-1.jpg)
+![search or random](paper-2.jpg)
+![search criteria](paper-4.jpg)
+![search results](paper-5.jpg)
+![welcome to AR gallery](paper-6.jpg)
 
 ## Significant Revisions
 - One of the screens that our test users found most confusing was the one where the user was meant to confirm their location. Originally it said "It seems you are in __ gallery" with "yes" and "no" buttons underneath. The sense of uncertainty communicated in the wording, namely the "it seems" in addition to a yes/no option to a seemingly not yes/no question was very confusing for users. We changed this screen to read "Welcome to __ Gallery" with the option to either "confirm location" or "refresh location"
