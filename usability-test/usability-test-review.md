@@ -10,6 +10,7 @@ Users were asked to think aloud and explain to us their actions and the reasonin
 We asked each user to complete two tasks:
 - Interact with a random art piece
 - View an exhibition in the current gallery from 2010
+
 We took turns being the 'computer' for each test, with the other group members being note takers.
 
 ### Usability Test 1
@@ -30,8 +31,8 @@ We took turns being the 'computer' for each test, with the other group members b
 
 ## Usability Test Results
 
-### Usability Test 1
-### Critical Incidents
+#### Usability Test 1
+#### Critical Incidents
 
 **1) Confusion with "______" gallery screen, Severity: 2**
 
@@ -62,7 +63,7 @@ After Kim did his search for a 2010 gallery, we had to explain to him what the l
 
 Overall, We had mostly positive feedback from our user about the prototype. He indicated that he thought the idea was cool. The interaction was very smooth--he completed the tasks relatively naturally and minimal guidance. This suggests to us that Kim was someone who was already familiar with this type of technology and that we should branch out in our selection of users for testing.
 
-### Usability Test 2
+#### Usability Test 2
 
 **1) Welcome screen of our app was confusing, Severity: 2**
 
@@ -76,10 +77,13 @@ Caroline asked us to clarify what each of the items in the search results. After
 ![search](updated_search.jpg)
 
 
-### Usability Test 3
-**1) Not clear that art pieces being viewed can be clicked to view more information, Severity: 2**
+#### Usability Test 3
+**1) Art pieces aren't clearly highlighted for more information, Severity: 3**
 
+In our last usability test, the user didn't know that she could click on the art pieces as there weren't signifiers for that action.
 
+![gallery view](../paper_prototype/view_gallery.jpg)
+      
 ## Paper Prototype
 
 ### Overview
