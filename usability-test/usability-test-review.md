@@ -38,22 +38,22 @@ Here is an overview of our paper prototype and its components
 
 ### Task 1 - Interact with a random piece of art
 
-![welcome screen](paper-0.jpg)
-![confirm location](paper-1.jpg)
-![search or random](paper-2.jpg)
-![welcome to AR gallery](paper-6.jpg)
-![explore AR gallery](paper-7.jpg)
-![click piece](paper-8.jpg)
-![learn more about piece](paper-9.jpg)
+![welcome screen](paper-0.JPG)
+![confirm location](paper-1.JPG)
+![search or random](paper-2.JPG)
+![welcome to AR gallery](paper-6.JPG)
+![explore AR gallery](paper-7.JPG)
+![click piece](paper-8.JPG)
+![learn more about piece](paper-9.JPG)
 
 ### Task 2 - Explore a show from 2010
 
-![welcome screen](paper-0.jpg)
-![confirm location](paper-1.jpg)
-![search or random](paper-2.jpg)
-![search criteria](paper-4.jpg)
-![search results](paper-5.jpg)
-![welcome to AR gallery](paper-6.jpg)
+![welcome screen](paper-0.JPG)
+![confirm location](paper-1.JPG)
+![search or random](paper-2.JPG)
+![search criteria](paper-4.JPG)
+![search results](paper-5.JPG)
+![welcome to AR gallery](paper-6.JPG)
 
 ## Significant Revisions
 - One of the screens that our test users found most confusing was the one where the user was meant to confirm their location. Originally it said "It seems you are in __ gallery" with "yes" and "no" buttons underneath. The sense of uncertainty communicated in the wording, namely the "it seems" in addition to a yes/no option to a seemingly not yes/no question was very confusing for users. We changed this screen to read "Welcome to __ Gallery" with the option to either "confirm location" or "refresh location"
