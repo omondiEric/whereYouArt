@@ -6,8 +6,8 @@ title: Usability Testing Review
 ## Test Protocol
 
 Users were asked to think aloud and explain to us their actions and the reasoning behind them as they interacted with our paper prototype. In all tests we worked to create a space in which the user could feel comfortable doing this and were sure to hold our tests in relatively quiet areas where this was possible. We asked each user to complete two tasks:
-Interact with a random art piece
-View an exhibition in the current gallery from 2010
+- Interact with a random art piece
+- View an exhibition in the current gallery from 2010
 We took turns being the 'computer' for each test, with the other group members being note takers.
 
 ### Usability Test 1
@@ -16,7 +16,7 @@ We took turns being the 'computer' for each test, with the other group members b
   - Computer: Steve
 
 ### Usability Test 2
-  - Participant: , Div 1/Div 2 major.
+  - Participant: Caroline, Anthropology major. Caroline was chosen after our first usability test because we wanted to diversify who tested our design i.e. choose someone who might be less familiar with AR technology
   - Location: Eco cafe. A central location with tables, good lighting, and minimal distractions
   - Computer: Linda
 
