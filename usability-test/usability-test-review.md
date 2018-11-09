@@ -11,19 +11,19 @@ View an exhibition in the current gallery from 2010
 We took turns being the 'computer' for each test, with the other group members being note takers.
 
 ### Usability Test 1
-Participant: Kim, Computer Science major. Kim was chosen primarily because of scheduling conveniences, but as someone relatively familiar with AR, was able to understand the concept of our design and from there provide good insight on the design itself.
-Location: A common room in Kim's building. A quiet space that would be comfortable for them.
-Computer: Steve
+  - Participant: Kim, Computer Science major. Kim was chosen primarily because of scheduling conveniences, but as someone relatively familiar with AR, was able to understand the concept of our design and from there provide good insight on the design itself.
+  - Location: A common room in Kim's building. A quiet space that would be comfortable for them.
+  - Computer: Steve
 
 ### Usability Test 2
-Participant: , Div 1/Div 2 major.
-Location: Eco cafe. A central location with tables, good lighting, and minimal distractions
-Computer: Linda
+  - Participant: , Div 1/Div 2 major.
+  - Location: Eco cafe. A central location with tables, good lighting, and minimal distractions
+  - Computer: Linda
 
 ### Usability Test 3
-Participant:
-Computer: Julia
-Location: Upstairs Paresky
+  - Participant: Aimer, a Chemistry major. As much as Aimer had a relatively easy time using and understanding how the application works, some of the features in the application were not as obvious to her. In particular, being able to click on a piece to display more information about it did not seem like an option that was available.
+  - Computer: Julia
+  - Location: Upstairs Paresky, chosen by the participant to make the meeting as convinient for her as possible.
 
 ## Critical Incidents
 Not clear that art pieces being viewed can be clicked to view more information
