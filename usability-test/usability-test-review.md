@@ -22,8 +22,8 @@ We took turns being the 'computer' for each test, with the other group members b
 
 ### Usability Test 3
   - Participant: Aimer, a Chemistry major. As much as Aimer had a relatively easy time using and understanding how the application works, some of the features in the application were not as obvious to her. In particular, being able to click on a piece to display more information about it did not seem like an option that was available.
-  - Computer: Julia
   - Location: Upstairs Paresky, chosen by the participant to make the meeting as convinient for her as possible.
+  - Computer: Julia
 
 ## Critical Incidents
 Not clear that art pieces being viewed can be clicked to view more information
