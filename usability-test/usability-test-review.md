@@ -39,20 +39,36 @@ Here is an overview of our paper prototype and its components
 ### Task 1 - Interact with a random piece of art
 
 ![welcome screen](paper-0.JPG)
+
 ![confirm location](paper-1.JPG)
+User confirms their location
+
 ![search or random](paper-2.JPG)
+Select a random show
+
 ![welcome to AR gallery](paper-6.JPG)
+
 ![explore AR gallery](paper-7.JPG)
+
 ![click piece](paper-8.JPG)
+Select a piece to show more information
+
 ![learn more about piece](paper-9.JPG)
+"learn more" shows even more information
 
 ### Task 2 - Explore a show from 2010
 
 ![welcome screen](paper-0.JPG)
+
 ![confirm location](paper-1.JPG)
+User confirms their location
+
 ![search or random](paper-2.JPG)
+
 ![search criteria](paper-4.JPG)
+
 ![search results](paper-5.JPG)
+
 ![welcome to AR gallery](paper-6.JPG)
 
 ## Significant Revisions
