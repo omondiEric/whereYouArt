@@ -32,13 +32,13 @@ Not clear that art pieces being viewed can be clicked to view more information
 ## Paper Prototype
 
 ### Overview
-![overview of the paper prototype components](img/design-review/paper-overview.JPG)
+![overview of the paper prototype components](final-img/design-review/paper-overview.JPG)
 
 Here is an overview of our paper prototype and its components
 
 ### Task 1 - Interact with a random piece of art
 
-![welcome screen](img/design-review/paper-0.jpg)
+![welcome screen](final-img/design-review/paper-0.jpg)
 ![confirm location](img/design-review/paper-1.jpg)
 ![search or random](img/design-review/paper-2.jpg)
 ![welcome to AR gallery](img/design-review/paper-6.jpg)
