@@ -30,12 +30,31 @@ Not clear that art pieces being viewed can be clicked to view more information
 
 
 ## Paper Prototype
+
 ### Overview
+![overview of the paper prototype components](img/design-review/paper-overview.JPG)
 
-### Task 1
+Here is an overview of our paper prototype and its components
 
-### Task 2
+### Task 1 - Interact with a random piece of art
+
+![](img/design-review/paper-0.jpg)
+![](img/design-review/paper-1.jpg)
+![](img/design-review/paper-2.jpg)
+![](img/design-review/paper-6.jpg)
+![](img/design-review/paper-7.jpg)
+![](img/design-review/paper-8.jpg)
+![](img/design-review/paper-9.jpg)
+
+### Task 2 - Explore a show from 2010
+
+![](img/design-review/paper-0.jpg)
+![](img/design-review/paper-1.jpg)
+![](img/design-review/paper-2.jpg)
+![](img/design-review/paper-4.jpg)
+![](img/design-review/paper-5.jpg)
+![](img/design-review/paper-6.jpg)
 
 ## Significant Revisions
 - One of the screens that our test users found most confusing was the one where the user was meant to confirm their location. Originally it said "It seems you are in __ gallery" with "yes" and "no" buttons underneath. The sense of uncertainty communicated in the wording, namely the "it seems" in addition to a yes/no option to a seemingly not yes/no question was very confusing for users. We changed this screen to read "Welcome to __ Gallery" with the option to either "confirm location" or "refresh location"
-- We needed a way to let the user know that they are able to tap on the art pieces they see in the AR for more information and further interaction. Our test users, especially those with limited experience using AR or museum technology, didn't even think this was an action available to them. To convey this, and provide more of a welcome when the user enters the AR version of their gallery, we added a new pop-up that introduces the show's name and display dates, and additionally informs the user they can tap on pieces for further exploration. 
+- We needed a way to let the user know that they are able to tap on the art pieces they see in the AR for more information and further interaction. Our test users, especially those with limited experience using AR or museum technology, didn't even think this was an action available to them. To convey this, and provide more of a welcome when the user enters the AR version of their gallery, we added a new pop-up that introduces the show's name and display dates, and additionally informs the user they can tap on pieces for further exploration.
