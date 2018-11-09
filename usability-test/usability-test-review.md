@@ -16,7 +16,7 @@ We took turns being the 'computer' for each test, with the other group members b
   - Computer: Steve
 
 ### Usability Test 2
-  - Participant: Caroline, Anthropology major. Caroline was chosen after our first usability test because we wanted to diversify who tested our design i.e. choose someone who might be less familiar with AR technology
+  - Participant: Caroline, Anthropology major. Caroline was chosen after our first usability test because we wanted to diversify who tested our design i.e. choose someone who might be less familiar with AR technology. Caroline had a natural understanding of how to use the app and stated she has encountered technology like this before. She suggested one of our major revisions, where the opening screen should say something along the lines of "Welcome to __ gallery...".
   - Location: Eco cafe. A central location with tables, good lighting, and minimal distractions
   - Computer: Linda
 
