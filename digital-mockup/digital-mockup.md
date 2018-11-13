@@ -4,10 +4,10 @@ title: Digital Mock-up
 ----
 
 
-##Overview: 
+## Overview: 
 
-##Task 1: Interact with past gallery
+## Task 1: Interact with past gallery
 
-##Task 2: View past gallery (from 2010)
+## Task 2: View past gallery (from 2010)
 
-##Discussion of Changes
+## Discussion of Changes
