@@ -5,7 +5,7 @@ title: Digital Mock-up
 
 ## Overview: 
 
-![home screen]("0Home Screen.png")
+![home screen](0Home Screen.png)
 
 ![load location]("1loading location.png")
 
