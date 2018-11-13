@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Digital Mock-up
-----
-
+---
 
 ## Overview: 
 
