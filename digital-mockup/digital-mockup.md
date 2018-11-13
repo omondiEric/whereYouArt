@@ -5,8 +5,20 @@ title: Digital Mock-up
 
 ## Overview: 
 
-## Task 1: Interact with past gallery
+![home screen](0Home Screen.png)
 
-## Task 2: View past gallery (from 2010)
+![load location](1loading location.png)
+
+![confirm location](2confirm location.png)
+
+![search](3random or search.png)
+
+## Task 1: View past gallery (from 2010)
+
+![](4gallery view w_ popup.png)
+
+## Task 2: Interact with past gallery
+
+![](5gallery view w_ info.png)
 
 ## Discussion of Changes
