@@ -17,6 +17,8 @@ title: Digital Mock-up
 
 ![]("4gallery view w_ popup.png")
 
+![](6gallery view.png)
+
 ## Task 2: Interact with past gallery
 
 ![]("5gallery view w_ info.png")
