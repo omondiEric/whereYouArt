@@ -88,9 +88,11 @@ From our second usability test, our participant asked us to clarify the gallery 
 From our usability tests, some of our participants weren’t aware that they were able to tap on art pieces in the gallery. To resolve this, we included a signifier i.e. include subtle pre-highlighting on the art pieces to signify to users that they are able to iap on the art pieces.
 
 ## Final Paper Prototype
+After both usability testing and heuristic evaluations, we came to a final paper prototype that incorporated necessary changes to solve problems that came up during testing. Critical aspects:
+      - The gallery confirmation screen was changed to read “Welcome to __ gallery” with options to either “confirm location” or “refresh location”.
+      - Added a new pop-up that introduces the show’s name and display dates, and additionally informs the user they can tap on pieces for further exploration.
 
-After both usability testing and heuristic evaluations, we came to a final paper prototype that reflects the testing results.
-![final overview image]
+![final overview image](whereYouArt/usability-test/paper-overview.JPG)
 
 
 Our two primary tasks were:
