@@ -124,4 +124,4 @@ I think the iterations were helpful for us to refine the ideas initially propose
 3. [Usability Test Check-In](https://omondieric.github.io/whereYouArt/usability-test/usability-test-checkin/)
 4. [Usability Testing Review](https://omondieric.github.io/whereYouArt/usability-test/usability-test-review/)
 5. [Digital Mock-Up](https://omondieric.github.io/whereYouArt/digital-mockup/digital-mockup/)
-6. [Presentation] (https://docs.google.com/presentation/d/1AdVMTL7fQWMRjYkDfYrM2I8IIhAhOx3nJm01WNjpuss/edit?usp=sharing)
+6. [Presentation](https://docs.google.com/presentation/d/1AdVMTL7fQWMRjYkDfYrM2I8IIhAhOx3nJm01WNjpuss/edit?usp=sharing)
