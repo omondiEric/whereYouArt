@@ -97,6 +97,9 @@ After both usability testing and heuristic evaluations, we came to a final paper
 
 Our two primary tasks were:
 1. Interact with a random art piece
+![viewing random piece](usability-test/paper-8.JPG)
+
+
 2. View an exhibition in the current gallery from 2010
 
 
