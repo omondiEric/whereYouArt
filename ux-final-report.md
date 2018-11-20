@@ -109,32 +109,32 @@ Critical aspects:
       - Addition of visual cues to some of the prompts, where necessary. For example, the screen that asks the user to confirm their location has the “confirm location” option colored green. also , when the user clicks on a piece to display the pop up options, the “learn more” option is underlined as a cue that it is the clickable bubble.
 
 The opening screen features our logo.
-![home screen](0Home Screen.png)
+![home screen](digital-mockup/0Home Screen.png)
 
 The app will detect the location of the user in the museum. 
-![load location](1loading location.png)
+![load location](digital-mockup/1loading location.png)
 
 The user will confirm if they are currently in the gallery detected. If our app detected the wrong location, the user can refresh and our app would try again to detect the user's location.
-![confirm location](2confirm location.png)
+![confirm location](digital-mockup/2confirm location.png)
 
 #### Task 1: View past gallery 
 User is asked whether they'd like the app to randomly choose a show and project it or whether the user would like to search for a specific gallery.
 
-![search](3random or search.png)
+![search](digital-mockup/3random or search.png)
 
 Once the user selects a show, our app superimposes the art pieces from the past show onto the current gallery space. There is a pop-up welcoming the user with information about the dates of the past show and the current space they are in.
 
-![gallery view opening](4gallery view w_ popup.png)
+![gallery view opening](digital-mockup/4gallery view w_ popup.png)
 
 Once the user closes the opening pop-up box, they are able to explore the gallery.
 
-![interact with gallery](5gallery view w_ info.png)
+![interact with gallery](digital-mockup/5gallery view w_ info.png)
 
 #### Task 2: Interact with past gallery
 
 Given that the user performed the first task, they can now interact the art pieces of a past gallery. By tapping on any of the art pieces, the app displays information bubbles with the title of the piece, the artist, and the option to learn more.
 
-![gallery view](6gallery view.png)
+![gallery view](digital-mockup/6gallery view.png)
 
 
 ## Discussion
