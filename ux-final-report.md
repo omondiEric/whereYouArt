@@ -20,10 +20,21 @@ You walk into an art museum and enjoy the exhibitions currently on display, but 
 
 Read our full proposal [here](https://omondieric.github.io/whereYouArt/proposal/)
 
-
-
 ## Initial Paper Prototype
 
+![The big picture image](paper_prototype/gallery_panorama.jpg)
+      
+We created a physical, paper prototype of our design. To simulate the AR component, we used an image of a gallery that we slid accordingly as a user held up the 'device' and turned from side to side to look around. 
+
+The app detects the user’s location and asks them to confirm. Once the user confirms, they have the option to either view a random gallery or search for a specific one. 
+
+The first task is to view a past gallery.
+![initial view gallery task](paper_prototype/view_gallery.jpg)
+
+The second task is to interact with a past gallery 
+![initial interact past gallery](paper_prototype/info_bubbles.jpg)
+
+See more details of our paper prototype here [link to paper prototype]
 
 ## Testing Process
 
@@ -50,5 +61,9 @@ Read our [usability testing review](https://omondieric.github.io/whereYouArt/usa
 
 ## Appendix
 
-
-[presentation](https://docs.google.com/presentation/d/1AdVMTL7fQWMRjYkDfYrM2I8IIhAhOx3nJm01WNjpuss/edit?usp=sharing)
+1. [First Paper Prototype](https://omondieric.github.io/whereYouArt/paper_prototype/paper-prototype/)
+2. [Heuristic Evaluation](https://omondieric.github.io/whereYouArt/heuristic_eval/)
+3. [Usability Test Check-In](https://omondieric.github.io/whereYouArt/usability-test/usability-test-checkin/)
+4. [Usability Testing Review](https://omondieric.github.io/whereYouArt/usability-test/usability-test-review/)
+5. [Digital Mock-Up](https://omondieric.github.io/whereYouArt/digital-mockup/digital-mockup/)
+6. [Presentation](https://docs.google.com/presentation/d/1AdVMTL7fQWMRjYkDfYrM2I8IIhAhOx3nJm01WNjpuss/edit?usp=sharing)
