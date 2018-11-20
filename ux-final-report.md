@@ -107,6 +107,13 @@ Our two primary tasks were:
 
 ![digital mockup overview]
 
+Critical aspects:
+      - Addition of visual cues to some of the prompts, where necessary. For example, the screen that asks the user to confirm their location has the “confirm location” option colored green. also , when the user clicks on a piece to display the pop up options, the “learn more” option is underlined as a cue that it is the clickable bubble.
+
+Tasks:
+1. Interact with random art piece
+
+
 ## Discussion
 
 From the process of iterative design, we learned that as designers our ideas may not always translate to the correct design and that iterations are helpful in getting it right. For example, the initial iteration of our search results was pretty ambiguous to our first participant, but to us, we knew what the ambiguous was supposed to be. This is an example of the recurring theme in this course that the user is not like you. 
