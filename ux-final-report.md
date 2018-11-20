@@ -101,7 +101,6 @@ Our two primary tasks were:
 
 
 2. View an exhibition in the current gallery from 2010
-### Task 2 - Explore a show from 2010
 
 ![confirm location](usability-test/paper-1.JPG)
 User confirms their location
