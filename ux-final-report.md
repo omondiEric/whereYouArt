@@ -23,6 +23,7 @@ For each of our three tests, we asked our user to complete two tasks:
 2. View an exhibition in the current gallery from 2010
 
 In all tests we worked to create a space in which the user could feel comfortable doing this and were sure to hold our tests in relatively quiet areas where this was possible. In each our tests, we started by welcoming the participant and asking if it was ok to take notes as he went through the process. We then moved on to providing a brief overview our project and application design. We encouraged users to think aloud and explain both their actions and their reasoning behind them as they interacted with the prototype. We rotated through the role of the ‘computer’ for each test, with the other group members being note takers.
+
 Read our [usability testing review](https://omondieric.github.io/whereYouArt/usability-test/usability-test-review/) for more details on our process and participants.
 
 ## Testing Results
