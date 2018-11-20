@@ -92,7 +92,7 @@ After both usability testing and heuristic evaluations, we came to a final paper
       - The gallery confirmation screen was changed to read “Welcome to __ gallery” with options to either “confirm location” or “refresh location”.
       - Added a new pop-up that introduces the show’s name and display dates, and additionally informs the user they can tap on pieces for further exploration.
 
-![final overview image](whereYouArt/usability-test/paper-overview.JPG)
+[final overview image](whereYouArt/usability-test/paper-overview.JPG)
 
 
 Our two primary tasks were:
