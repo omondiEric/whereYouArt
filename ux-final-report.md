@@ -48,8 +48,34 @@ Read our [usability testing review](https://omondieric.github.io/whereYouArt/usa
 
 ## Testing Results
 
+Throughout our testing process, we identified several issues and make refinements. 
+
+#### Provide back buttons consistently so users never get trapped in the design 
+
+From our heuristic evaluation, we realized that we didn’t have any back buttons. This was so easily overlooked and it didn’t occur to us to include them. We included them before our first usability test.
+
+#### Highlight selected piece to user 
+
+From our heuristic evaluation, someone from another team suggested to us that it would be helpful to highlight an art piece when a user taps it. This would serve as a signifier and feedback to the user that their action of tapping did something in our app. We subsequently made the change in our prototype before our first usability test.
+
+#### Search form filled with example formats to minimize user memory load.
+
+After our first usability testing, we thought it would be helpful if we provided examples of what each search criteria looked like. This is reflective of minimizing the memory load heuristic. 
+
+#### Search heading 
+
+From our second usability test, we learned that our search results list was extremely ambiguous and as a result, we had to explain to our participant what the search list was supposed to represent. To resolve this issue, we included a heading to the list to clearly indicate what it was.
+
+#### Better wording for welcome screen  
+
+From our second usability test, our participant asked us to clarify the gallery confirmation screen. After performing the tasks, she suggested to us that changing to wording on the screen would clarify the purpose of the screen. She suggested that we change the wording to “Welcome to _____ gallery,” and this was helpful feedback. We refined our prototype to reflect her suggestions.
+
+#### Include signifiers to inform user of the ability to interact with a piece
+
+From our usability tests, some of our participants weren’t aware that they were able to tap on art pieces in the gallery. To resolve this, we included a signifier i.e. include subtle pre-highlighting on the art pieces to signify to users that they are able to iap on the art pieces.
 
 ## Final Paper Prototype
+
 
 
 ## Digital Mockup
