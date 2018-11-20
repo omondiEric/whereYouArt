@@ -38,6 +38,19 @@ See more details of our paper prototype here [link to paper prototype]
 
 ## Testing Process
 
+
+Our testing process began with a heuristic evaluation with another team in the class. In this step, our design was evaluated against a list of design heuristics. 
+
+The next step of our testing process was a cognitive walkthrough, which was where we walked through the steps of our two tasks. We considered these questions for each step:
+
+1.Will the person be trying to produce whatever effect the action has?
+2.Will the person be able to notice that the correct action is available?
+3.Once the person finds the correct action at the interface, will they know that it is the right one for the effect they are trying to produce?
+4.After the action is taken, will the person understand the feedback given?
+
+
+### Usability Testing
+
 For each of our three tests, we asked our user to complete two tasks:
 1. Interact with a random art piece
 2. View an exhibition in the current gallery from 2010
@@ -76,14 +89,28 @@ From our usability tests, some of our participants weren’t aware that they wer
 
 ## Final Paper Prototype
 
+After both usability testing and heuristic evaluations, we came to a final paper prototype that reflects the testing results.
+![final overview image]
+
+
+Our two primary tasks were:
+1. Interact with a random art piece
+2. View an exhibition in the current gallery from 2010
 
 
 ## Digital Mockup
 
-
+![digital mockup overview]
 
 ## Discussion
 
+From the process of iterative design, we learned that as designers our ideas may not always translate to the correct design and that iterations are helpful in getting it right. For example, the initial iteration of our search results was pretty ambiguous to our first participant, but to us, we knew what the ambiguous was supposed to be. This is an example of the recurring theme in this course that the user is not like you. 
+
+The process shaped our final design because with each step, we refined our design based on each step of our testing process. We found the usability tests to be especially helpful in helping us refine our design as we gained the perspective of a user actually using the paper prototype. For example, adding a heading to our search results to remove ambiguity came from our first usability test. Another major change was changing the wording of our welcome screen, and this was a result from our second usability test.
+
+Our tasks remain the same as before we conducted our user research, however, for the usability tests, we made them more specific to test specific aspects of our prototype. For example, we changed our initial task of viewing a gallery to viewing a gallery from 2010 to test the search option during our usability tests.
+
+I think the iterations were helpful for us to refine the ideas initially proposed in our paper prototype, and more iterations are helpful for further refinement. However, I think we might have benefitted, not from more iterations, but the time and perhaps a different type of review with which we could have done a more general evaluation of our design. 
 
 ## Appendix
 
@@ -92,4 +119,4 @@ From our usability tests, some of our participants weren’t aware that they wer
 3. [Usability Test Check-In](https://omondieric.github.io/whereYouArt/usability-test/usability-test-checkin/)
 4. [Usability Testing Review](https://omondieric.github.io/whereYouArt/usability-test/usability-test-review/)
 5. [Digital Mock-Up](https://omondieric.github.io/whereYouArt/digital-mockup/digital-mockup/)
-6. [Presentation](https://docs.google.com/presentation/d/1AdVMTL7fQWMRjYkDfYrM2I8IIhAhOx3nJm01WNjpuss/edit?usp=sharing)
+6. [Presentation] (https://docs.google.com/presentation/d/1AdVMTL7fQWMRjYkDfYrM2I8IIhAhOx3nJm01WNjpuss/edit?usp=sharing)
