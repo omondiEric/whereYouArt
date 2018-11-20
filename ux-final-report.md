@@ -5,6 +5,13 @@ subtitle: findings from user research
 
 ---
 
+# Where You Art
+
+## Team Members
+Julia Kawano - Designer/ Researcher
+Steve Omondi - Designer/ Researcher
+Linda Zeng - Designer/ Researcher
+
 ## Problem and Solution Overview
 
 You walk into an art museum and enjoy the exhibitions currently on display, but then you begin to wonder about previous shows. You wonder what they looked like, what pieces they had, and you wish there was a way to see, not only the museum space in its current state, but also galleries of the past. We have chosen to focus on the problems associated with the limitations of physical space and allowing museum visitors to learn more about where they are. Our proposed solution is an augmented reality mobile application that would allow visitors to view and interact with past exhibitions and their art.
