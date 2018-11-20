@@ -106,9 +106,9 @@ Our two primary tasks were:
 User confirms their location
 
 ![search criteria](usability-test/paper-4.JPG)
-
+Then fills in the search criteria of their choice
 ![welcome to AR gallery](usability-test/paper-6.JPG)
-
+A pop up screen appears telling the user how to interact with the piece.
 ## Digital Mockup
 
 Critical aspects:
