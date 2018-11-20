@@ -1,7 +1,7 @@
 ---
 layout: page
 title: User Experience Final Report
-subtitle: findings from user research
+subtitle: findings from our user research
 
 ---
 
