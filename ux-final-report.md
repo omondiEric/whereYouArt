@@ -9,7 +9,9 @@ subtitle: findings from user research
 
 ## Team Members
 Julia Kawano - Designer/ Researcher
+
 Steve Omondi - Designer/ Researcher
+
 Linda Zeng - Designer/ Researcher
 
 ## Problem and Solution Overview
