@@ -36,7 +36,7 @@ Since this is an action that is widely used in various designs, we do not find i
 
 ## Usability Test
 
-For our first usability test, Julia and Linda took notes and Steve was the computer. From this usability test, we learned several things. The first was that it's really easy to overlook simple things as designers, for example, the inclusion of a heading to clarify what a screen is for. Although our paper prototype isn't supposed to be the real thing, it shouldn't oversimplify the actual app, which in some instances we did. The unlabeled components were obvious to us but the user wouldn't know what to make of the unlabeled list. In addition, we learned that it's important to provide a brief overview of our design to the user before testing. 
+For our first usability test, Julia and Linda took notes and Steve was the computer. From this usability test, we learned several things. The first was that it's really easy to overlook simple things as designers, for example, the inclusion of a heading to clarify what a screen is for. Although our paper prototype isn't supposed to be the real thing, it shouldn't oversimplify the actual app, which in some instances we did. The unlabeled components were obvious to us but the user wouldn't know what to make of the unlabeled list. 
 
 ### Critical Incidents
 
