@@ -15,7 +15,7 @@ The opening screen features our logo.
 After, our app transitions to a screen that detects the location of the user in the museum. 
 ![load location](1loading location.png)
 
-Once our app detects the user's locatin, it asks the user to confirm if they are currently in the gallery detected. If our app detected the wrong location, the user can refresh and our app would try again to detect the user's location.
+Once our app detects the user's location, it asks the user to confirm if they are currently in the gallery detected. If our app detected the wrong location, the user can refresh and our app would try again to detect the user's location.
 ![confirm location](2confirm location.png)
 
 ## Task 1: View past gallery 
@@ -37,6 +37,11 @@ Once the user closes the opening pop-up box, they are able to explore the galler
 Given that the user performed the first task, they can now interact the art pieces of a past gallery. By tapping on any of the art pieces, the app displays information bubbles with the title of the piece, the artist, and the option to learn more.
 
 ![gallery view](6gallery view.png)
+
+
+If the user chooses the option to learn more, the app will pop up a screen with more information. 
+
+![learn more](learn more.png)
 
 ## Discussion of Changes
 Throughout our usability testing, we have made a number of significant changes that make our application much simpler and intuitive to use. One of the most significant changes was the addition of a back button to provide users with navigational freedom within the application. A common occurrence during the  usability testing process was that some of the participants would get a bit confused in terms of trying to find out what they can and cannot do. We therefore changed the look and words used in some of the prompts to clearly explain their options. On the location confirmation screen, we made use of additional visual cues by making the “confirm location” button green. 
