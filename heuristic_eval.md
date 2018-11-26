@@ -17,8 +17,8 @@ Control & Freedom | Can't pan/zoom piece | 1
 
 
 ## Evaluation 1:
-#### Conducted by: Steve
-#### Facilitated by: Daniel and Spencer
+#### Conducted by: Daniel and Spencer
+#### Facilitated by: Steve
 
 ![evaluation 1](img/heuristic_eval/HE1.jpg)
 
@@ -26,8 +26,8 @@ Control & Freedom | Can't pan/zoom piece | 1
 
 
 ## Evaluation 2:
-#### Conducted by: Linda and Julia
-#### Facilitated by: Javi
+#### Conducted by: Javi
+#### Facilitated by: Linda and Julia
 
 ![evaluation_3](img/heuristic_eval/heuristic_eval_3.jpg)
 
