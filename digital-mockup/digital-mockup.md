@@ -7,6 +7,10 @@ title: Digital Mock-up
 
 Where You Art is an AR app. This is an overview of our digital mockup, made using InVision and Balsamiq.
 
+![gallery view opening](4gallery view w_ popup.png)
+
+![overview](5gallery view w_ info.png)
+
 #### Opening Screen
 The opening screen features our logo.
 
@@ -28,7 +32,7 @@ Once the user selects a show, our app superimposes the art pieces from the past 
 
 ![gallery view opening](4gallery view w_ popup.png)
 
-Once the user closes the opening pop-up box, they are able to explore the gallery.
+Once the user closes the opening pop-up box by touching the 'x' at the top right corner, they are able to explore the gallery.
 
 ![interact with gallery](5gallery view w_ info.png)
 
