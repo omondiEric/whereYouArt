@@ -23,14 +23,15 @@ Once the user confirms their location, they will be prompted to choose between a
 ## Task: View past gallery
 
 ### 1) Randomized Gallery
-When the user selects to view installations randomly, they are shown previous installations from a random time period. As the user walks around, the installations that they users have already seen will change to other installations.
+When the user selects to view installations randomly, they are shown previous installations from a random time period. As the user walks around with their device, they will be able to view superimposed installations from the random past gallery.
+
 ![Gallery View](view_gallery.jpg){:height="50%" width="50%"}
 
 ### 2) User Search
 
 ![Search](search_categories.jpg){:height="50%" width="50%"}
 
-If the user chooses to not to display a random gallery, they have the option to search for a past gallery. 
+If the user chooses not to display a random gallery, they have the option to search for a past gallery. 
 
 ![Search Results](search_results.jpg){:height="50%" width="50%"}
 
@@ -48,7 +49,7 @@ After the user confirms, the app displays the gallery.
 
 ![Interesting Art](info_bubbles.jpg){:height="50%" width="50%"}
 
-Once a user is viewing a past gallery, they can touch an art piece and the app displays the title and artist of the piece. In addition, they have to option to learn more by clicking on the “Learn more” information bubble.
+Once a user is viewing a past gallery, they can touch an art piece and the app displays the title and artist of the piece. In addition, they have to option to learn more by clicking on the “Learn more” information bubble. The user will know what past gallery they are looking at as it will be labeled on the top of the screen. 
 
 ![More Info](more_info.jpg){:height="50%" width="50%"}
 
