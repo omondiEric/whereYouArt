@@ -24,7 +24,7 @@ description:
 # List of links in the navigation bar
 navbar-links:
   #Project: "overview"
-  Home: "homepage"
+  Home: "index"
   Appendix: "appendix"
    # - Proposal: "proposal"
    # - CI Plan: "contextual"
@@ -267,4 +267,4 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
