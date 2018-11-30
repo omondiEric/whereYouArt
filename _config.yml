@@ -41,7 +41,7 @@ navbar-links:
   #  - Digital Mock-up: "digital-mockup/digital-mockup"
   #  - Final Report: "ux-final-report"
   Team:
-    - Contract: "contract"
+  #  - Contract: "contract"
     - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
     - Linda Zeng(lz2): "https://lzeng27.github.io"
     - Steven Omondi(seo1): "https://omondieric.github.io/projectProposal/"
