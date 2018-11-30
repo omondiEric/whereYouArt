@@ -4,6 +4,9 @@ title: Appendix
 
 ---
 
+## Team Contract
+- [Team Contract]("contract")
+
 ## Project Proposal
 
 - [Project Proposal]("proposal")
@@ -33,7 +36,6 @@ title: Appendix
 -------------------------------------------------------------------
 
 Team:
-  - Contract: "contract"
   - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
   - Linda Zeng(lz2): "https://lzeng27.github.io"
   - Steven Omondi(seo1): "https://omondieric.github.io/projectProposal/"
