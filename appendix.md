@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Appendix
-
----
-
 url: "http://omondiEric.github.io/whereYouArt"
 baseurl: "/whereYouArt"
+
+---
 
 ## Team
 - [Team Contract]("contract")
