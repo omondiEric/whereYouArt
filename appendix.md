@@ -4,15 +4,13 @@ title: Appendix
 
 ---
 
-## Team Contract
+## Team
 - [Team Contract]("contract")
 
 ## Project Proposal
-
 - [Project Proposal]("proposal")
 
 ## Looking to Understand
-
 - [Contextual Inquiry Plan]("contextual")
 - [Contextual Inquiry Check-In]("contextual1")
 - [Contextual Inquiry Review]("contextualReview")
@@ -24,7 +22,6 @@ title: Appendix
 
 
 ## Understanding to Make
-
 - [Paper Prototype]("paper_prototype/paper-prototype")
 - [Heuristic Evaluation]("heuristic_eval")
 - [Usability Testing Check-In]("usability-test/usability-test-checkin")
