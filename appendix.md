@@ -7,7 +7,7 @@ baseurl: "/whereYouArt"
 ---
 
 ## Team
-- [Team Contract]("contract.md")
+- [Team Contract](/contract.md)
 
 ## Project Proposal
 - [Project Proposal]("proposal")
