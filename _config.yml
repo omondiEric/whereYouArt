@@ -24,6 +24,7 @@ description:
 # List of links in the navigation bar
 navbar-links:
   #Project: "overview"
+  Home: "homepage"
   Appendix: "appendix"
    # - Proposal: "proposal"
    # - CI Plan: "contextual"
