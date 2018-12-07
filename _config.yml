@@ -41,11 +41,11 @@ navbar-links:
   #  - Usability Testing Review: "usability-test/usability-test-review"
   #  - Digital Mock-up: "digital-mockup/digital-mockup"
   #  - Final Report: "ux-final-report"
-  Team:
+  #Team:
   #  - Contract: "contract"
-    - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
-    - Linda Zeng(lz2): "https://lzeng27.github.io"
-    - Steven Omondi(seo1): "https://omondieric.github.io/projectProposal/"
+  #  - Julia Kawano(jkk2): "https://jkkawano.github.io/jkawano-cs376"
+  #  - Linda Zeng(lz2): "https://lzeng27.github.io"
+  #  - Steven Omondi(seo1): "https://omondieric.github.io/projectProposal/"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
